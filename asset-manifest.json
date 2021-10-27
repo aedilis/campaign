@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.9ab50f30.chunk.css",
-    "main.js": "/campaign/static/js/main.2ee9b4b3.chunk.js",
-    "main.js.map": "/campaign/static/js/main.2ee9b4b3.chunk.js.map",
+    "main.css": "/campaign/static/css/main.17f36f73.chunk.css",
+    "main.js": "/campaign/static/js/main.7074ee42.chunk.js",
+    "main.js.map": "/campaign/static/js/main.7074ee42.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
     "static/js/2.1a1381dc.chunk.js": "/campaign/static/js/2.1a1381dc.chunk.js",
     "static/js/2.1a1381dc.chunk.js.map": "/campaign/static/js/2.1a1381dc.chunk.js.map",
     "index.html": "/campaign/index.html",
-    "static/css/main.9ab50f30.chunk.css.map": "/campaign/static/css/main.9ab50f30.chunk.css.map",
+    "static/css/main.17f36f73.chunk.css.map": "/campaign/static/css/main.17f36f73.chunk.css.map",
     "static/js/2.1a1381dc.chunk.js.LICENSE.txt": "/campaign/static/js/2.1a1381dc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/campaign/static/media/CasablancaAntique.159bc73b.ttf",
     "static/media/acheros.0ed0865c.jpeg": "/campaign/static/media/acheros.0ed0865c.jpeg",
@@ -52,7 +52,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2239b30.js",
     "static/js/2.1a1381dc.chunk.js",
-    "static/css/main.9ab50f30.chunk.css",
-    "static/js/main.2ee9b4b3.chunk.js"
+    "static/css/main.17f36f73.chunk.css",
+    "static/js/main.7074ee42.chunk.js"
   ]
 }
