@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.aec7519b.chunk.css",
-    "main.js": "/campaign/static/js/main.3e281634.chunk.js",
-    "main.js.map": "/campaign/static/js/main.3e281634.chunk.js.map",
+    "main.js": "/campaign/static/js/main.a53c306b.chunk.js",
+    "main.js.map": "/campaign/static/js/main.a53c306b.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
     "static/js/2.bf0198ef.chunk.js": "/campaign/static/js/2.bf0198ef.chunk.js",
@@ -27,10 +27,13 @@
     "static/media/doom_fleet.693dc20f.jpg": "/campaign/static/media/doom_fleet.693dc20f.jpg",
     "static/media/doom_fleet_invasion.888185d4.jpg": "/campaign/static/media/doom_fleet_invasion.888185d4.jpg",
     "static/media/eryx.c6ecbf69.jpeg": "/campaign/static/media/eryx.c6ecbf69.jpeg",
+    "static/media/eryx_knight.818cedc5.jpg": "/campaign/static/media/eryx_knight.818cedc5.jpg",
     "static/media/exterminatus.b78cb260.jpeg": "/campaign/static/media/exterminatus.b78cb260.jpeg",
     "static/media/freebooterz.7d8d45b0.svg": "/campaign/static/media/freebooterz.7d8d45b0.svg",
     "static/media/galaxy.bcb2cebb.jpeg": "/campaign/static/media/galaxy.bcb2cebb.jpeg",
     "static/media/gandymere.60134837.jpeg": "/campaign/static/media/gandymere.60134837.jpeg",
+    "static/media/gsc.d0521e94.svg": "/campaign/static/media/gsc.d0521e94.svg",
+    "static/media/gsc_flag.0db4fa45.jpg": "/campaign/static/media/gsc_flag.0db4fa45.jpg",
     "static/media/hegesthes.ad9e9b15.jpeg": "/campaign/static/media/hegesthes.ad9e9b15.jpeg",
     "static/media/heimvar.30bd6d21.jpeg": "/campaign/static/media/heimvar.30bd6d21.jpeg",
     "static/media/kuvala.0b813f26.jpeg": "/campaign/static/media/kuvala.0b813f26.jpeg",
@@ -58,6 +61,6 @@
     "static/js/runtime-main.c2239b30.js",
     "static/js/2.bf0198ef.chunk.js",
     "static/css/main.aec7519b.chunk.css",
-    "static/js/main.3e281634.chunk.js"
+    "static/js/main.a53c306b.chunk.js"
   ]
 }
