@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.aec7519b.chunk.css",
-    "main.js": "/campaign/static/js/main.82836693.chunk.js",
-    "main.js.map": "/campaign/static/js/main.82836693.chunk.js.map",
+    "main.js": "/campaign/static/js/main.1f0149a5.chunk.js",
+    "main.js.map": "/campaign/static/js/main.1f0149a5.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
-    "static/js/2.421681bf.chunk.js": "/campaign/static/js/2.421681bf.chunk.js",
-    "static/js/2.421681bf.chunk.js.map": "/campaign/static/js/2.421681bf.chunk.js.map",
+    "static/js/2.a9031136.chunk.js": "/campaign/static/js/2.a9031136.chunk.js",
+    "static/js/2.a9031136.chunk.js.map": "/campaign/static/js/2.a9031136.chunk.js.map",
     "index.html": "/campaign/index.html",
     "static/css/main.aec7519b.chunk.css.map": "/campaign/static/css/main.aec7519b.chunk.css.map",
-    "static/js/2.421681bf.chunk.js.LICENSE.txt": "/campaign/static/js/2.421681bf.chunk.js.LICENSE.txt",
+    "static/js/2.a9031136.chunk.js.LICENSE.txt": "/campaign/static/js/2.a9031136.chunk.js.LICENSE.txt",
     "static/media/317_captain_kyser.847f21ef.jpg": "/campaign/static/media/317_captain_kyser.847f21ef.jpg",
     "static/media/317_lieutenant_raphe.2c7fe9bd.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd.jpg",
     "static/media/index.css": "/campaign/static/media/CasablancaAntique.159bc73b.ttf",
@@ -34,8 +34,10 @@
     "static/media/exterminatus.b78cb260.jpeg": "/campaign/static/media/exterminatus.b78cb260.jpeg",
     "static/media/flight_approach.c48ee481.jpg": "/campaign/static/media/flight_approach.c48ee481.jpg",
     "static/media/forward_push_aerial.f31d49bb.jpg": "/campaign/static/media/forward_push_aerial.f31d49bb.jpg",
+    "static/media/freebooterz.7d8d45b0.svg": "/campaign/static/media/freebooterz.7d8d45b0.svg",
     "static/media/galaxy.bcb2cebb.jpeg": "/campaign/static/media/galaxy.bcb2cebb.jpeg",
     "static/media/gandymere.60134837.jpeg": "/campaign/static/media/gandymere.60134837.jpeg",
+    "static/media/governor.440c0ad9.svg": "/campaign/static/media/governor.440c0ad9.svg",
     "static/media/gsc.d0521e94.svg": "/campaign/static/media/gsc.d0521e94.svg",
     "static/media/gsc_flag.0db4fa45.jpg": "/campaign/static/media/gsc_flag.0db4fa45.jpg",
     "static/media/hegesthes.ad9e9b15.jpeg": "/campaign/static/media/hegesthes.ad9e9b15.jpeg",
@@ -62,12 +64,13 @@
     "static/media/tengara.1b2a31bf.jpeg": "/campaign/static/media/tengara.1b2a31bf.jpeg",
     "static/media/toofkrakka.38a41d22.jpg": "/campaign/static/media/toofkrakka.38a41d22.jpg",
     "static/media/umbranox.11e475a6.jpg": "/campaign/static/media/umbranox.11e475a6.jpg",
+    "static/media/wrong_door.191b77a5.jpg": "/campaign/static/media/wrong_door.191b77a5.jpg",
     "static/media/zaldrotha_voidrender.92e95cd0.jpg": "/campaign/static/media/zaldrotha_voidrender.92e95cd0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2239b30.js",
-    "static/js/2.421681bf.chunk.js",
+    "static/js/2.a9031136.chunk.js",
     "static/css/main.aec7519b.chunk.css",
-    "static/js/main.82836693.chunk.js"
+    "static/js/main.1f0149a5.chunk.js"
   ]
 }
