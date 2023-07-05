@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.c9cd0603.chunk.css",
-    "main.js": "/campaign/static/js/main.e1673956.chunk.js",
-    "main.js.map": "/campaign/static/js/main.e1673956.chunk.js.map",
+    "main.css": "/campaign/static/css/main.e847f51f.chunk.css",
+    "main.js": "/campaign/static/js/main.cf06e3e9.chunk.js",
+    "main.js.map": "/campaign/static/js/main.cf06e3e9.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
-    "static/js/2.b47788b0.chunk.js": "/campaign/static/js/2.b47788b0.chunk.js",
-    "static/js/2.b47788b0.chunk.js.map": "/campaign/static/js/2.b47788b0.chunk.js.map",
+    "static/js/2.96772833.chunk.js": "/campaign/static/js/2.96772833.chunk.js",
+    "static/js/2.96772833.chunk.js.map": "/campaign/static/js/2.96772833.chunk.js.map",
     "index.html": "/campaign/index.html",
-    "static/css/main.c9cd0603.chunk.css.map": "/campaign/static/css/main.c9cd0603.chunk.css.map",
-    "static/js/2.b47788b0.chunk.js.LICENSE.txt": "/campaign/static/js/2.b47788b0.chunk.js.LICENSE.txt",
+    "static/css/main.e847f51f.chunk.css.map": "/campaign/static/css/main.e847f51f.chunk.css.map",
+    "static/js/2.96772833.chunk.js.LICENSE.txt": "/campaign/static/js/2.96772833.chunk.js.LICENSE.txt",
     "static/media/317_captain_kyser.847f21ef.jpg": "/campaign/static/media/317_captain_kyser.847f21ef.jpg",
     "static/media/317_lieutenant_raphe.2c7fe9bd.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd.jpg",
     "static/media/index.css": "/campaign/static/media/CasablancaAntique.159bc73b.ttf",
@@ -77,8 +77,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c2239b30.js",
-    "static/js/2.b47788b0.chunk.js",
-    "static/css/main.c9cd0603.chunk.css",
-    "static/js/main.e1673956.chunk.js"
+    "static/js/2.96772833.chunk.js",
+    "static/css/main.e847f51f.chunk.css",
+    "static/js/main.cf06e3e9.chunk.js"
   ]
 }
