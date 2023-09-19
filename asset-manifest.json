@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.aa8b8e66.chunk.css",
-    "main.js": "/campaign/static/js/main.b759d749.chunk.js",
-    "main.js.map": "/campaign/static/js/main.b759d749.chunk.js.map",
+    "main.css": "/campaign/static/css/main.3073fb47.chunk.css",
+    "main.js": "/campaign/static/js/main.5e09e0a6.chunk.js",
+    "main.js.map": "/campaign/static/js/main.5e09e0a6.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
     "static/js/2.54a4f00d.chunk.js": "/campaign/static/js/2.54a4f00d.chunk.js",
     "static/js/2.54a4f00d.chunk.js.map": "/campaign/static/js/2.54a4f00d.chunk.js.map",
     "index.html": "/campaign/index.html",
-    "static/css/main.aa8b8e66.chunk.css.map": "/campaign/static/css/main.aa8b8e66.chunk.css.map",
+    "static/css/main.3073fb47.chunk.css.map": "/campaign/static/css/main.3073fb47.chunk.css.map",
     "static/js/2.54a4f00d.chunk.js.LICENSE.txt": "/campaign/static/js/2.54a4f00d.chunk.js.LICENSE.txt",
     "static/media/317_captain_kyser.847f21ef.jpg": "/campaign/static/media/317_captain_kyser.847f21ef.jpg",
     "static/media/317_lieutenant_raphe.2c7fe9bd.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd.jpg",
@@ -18,6 +18,7 @@
     "static/media/aeronautica.a81c1a74.svg": "/campaign/static/media/aeronautica.a81c1a74.svg",
     "static/media/ai_gandymere.73ce7882.jpg": "/campaign/static/media/ai_gandymere.73ce7882.jpg",
     "static/media/ai_orks.a7ac5f19.svg": "/campaign/static/media/ai_orks.a7ac5f19.svg",
+    "static/media/amber_cloud.a3729c45.jpg": "/campaign/static/media/amber_cloud.a3729c45.jpg",
     "static/media/aquila.c546d5e1.svg": "/campaign/static/media/aquila.c546d5e1.svg",
     "static/media/aquila_illustris.659d5868.jpg": "/campaign/static/media/aquila_illustris.659d5868.jpg",
     "static/media/App.css": "/campaign/static/media/tank.3b69a148.png",
@@ -33,6 +34,7 @@
     "static/media/dakkajets_chase_bombers.f5e85477.jpg": "/campaign/static/media/dakkajets_chase_bombers.f5e85477.jpg",
     "static/media/decker_bask.ac0d762a.jpg": "/campaign/static/media/decker_bask.ac0d762a.jpg",
     "static/media/doom_fleet.693dc20f.jpg": "/campaign/static/media/doom_fleet.693dc20f.jpg",
+    "static/media/doom_fleet.ca3f46a6.jpg": "/campaign/static/media/doom_fleet.ca3f46a6.jpg",
     "static/media/doom_fleet_invasion.888185d4.jpg": "/campaign/static/media/doom_fleet_invasion.888185d4.jpg",
     "static/media/dredd_vs_terminators.a648032a.jpg": "/campaign/static/media/dredd_vs_terminators.a648032a.jpg",
     "static/media/eryx.c6ecbf69.jpeg": "/campaign/static/media/eryx.c6ecbf69.jpeg",
@@ -89,7 +91,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2239b30.js",
     "static/js/2.54a4f00d.chunk.js",
-    "static/css/main.aa8b8e66.chunk.css",
-    "static/js/main.b759d749.chunk.js"
+    "static/css/main.3073fb47.chunk.css",
+    "static/js/main.5e09e0a6.chunk.js"
   ]
 }
