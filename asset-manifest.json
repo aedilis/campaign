@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.d067ef63.chunk.css",
-    "main.js": "/campaign/static/js/main.e5ad7d01.chunk.js",
-    "main.js.map": "/campaign/static/js/main.e5ad7d01.chunk.js.map",
+    "main.js": "/campaign/static/js/main.33c2223c.chunk.js",
+    "main.js.map": "/campaign/static/js/main.33c2223c.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
     "static/js/2.54a4f00d.chunk.js": "/campaign/static/js/2.54a4f00d.chunk.js",
@@ -42,6 +42,7 @@
     "static/media/doom_fleet.ca3f46a6.jpg": "/campaign/static/media/doom_fleet.ca3f46a6.jpg",
     "static/media/doom_fleet_invasion.888185d4.jpg": "/campaign/static/media/doom_fleet_invasion.888185d4.jpg",
     "static/media/dredd_vs_terminators.a648032a.jpg": "/campaign/static/media/dredd_vs_terminators.a648032a.jpg",
+    "static/media/eisenberg.e3b7537e.jpg": "/campaign/static/media/eisenberg.e3b7537e.jpg",
     "static/media/eryx.c6ecbf69.jpeg": "/campaign/static/media/eryx.c6ecbf69.jpeg",
     "static/media/eryx_knight.818cedc5.jpg": "/campaign/static/media/eryx_knight.818cedc5.jpg",
     "static/media/exterminatus.b78cb260.jpeg": "/campaign/static/media/exterminatus.b78cb260.jpeg",
@@ -86,6 +87,7 @@
     "static/media/perseverance.8e55ea7f.jpeg": "/campaign/static/media/perseverance.8e55ea7f.jpeg",
     "static/media/radaghast.26af1e41.jpeg": "/campaign/static/media/radaghast.26af1e41.jpeg",
     "static/media/red.ac7cecd5.jpeg": "/campaign/static/media/red.ac7cecd5.jpeg",
+    "static/media/reinhardt-bladeguard.d207f4b9.jpg": "/campaign/static/media/reinhardt-bladeguard.d207f4b9.jpg",
     "static/media/rekbad.b1828872.jpg": "/campaign/static/media/rekbad.b1828872.jpg",
     "static/media/skrapboss.099c4f29.jpeg": "/campaign/static/media/skrapboss.099c4f29.jpeg",
     "static/media/skraptoof.6aa546e7.jpeg": "/campaign/static/media/skraptoof.6aa546e7.jpeg",
@@ -109,6 +111,6 @@
     "static/js/runtime-main.c2239b30.js",
     "static/js/2.54a4f00d.chunk.js",
     "static/css/main.d067ef63.chunk.css",
-    "static/js/main.e5ad7d01.chunk.js"
+    "static/js/main.33c2223c.chunk.js"
   ]
 }
