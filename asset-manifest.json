@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.d067ef63.chunk.css",
-    "main.js": "/campaign/static/js/main.2e118ade.chunk.js",
-    "main.js.map": "/campaign/static/js/main.2e118ade.chunk.js.map",
+    "main.js": "/campaign/static/js/main.698b1cf1.chunk.js",
+    "main.js.map": "/campaign/static/js/main.698b1cf1.chunk.js.map",
     "runtime-main.js": "/campaign/static/js/runtime-main.c2239b30.js",
     "runtime-main.js.map": "/campaign/static/js/runtime-main.c2239b30.js.map",
     "static/js/2.64e2c002.chunk.js": "/campaign/static/js/2.64e2c002.chunk.js",
@@ -91,6 +91,7 @@
     "static/media/malithor_escapes.b298f377.jpg": "/campaign/static/media/malithor_escapes.b298f377.jpg",
     "static/media/merope.31efabea.jpeg": "/campaign/static/media/merope.31efabea.jpeg",
     "static/media/montrass.69dc1bf3.jpeg": "/campaign/static/media/montrass.69dc1bf3.jpeg",
+    "static/media/mophilus_prion.7c140279.jpg": "/campaign/static/media/mophilus_prion.7c140279.jpg",
     "static/media/morkanaut.f9a3fdf5.jpg": "/campaign/static/media/morkanaut.f9a3fdf5.jpg",
     "static/media/mozrog.3bcd987e.jpeg": "/campaign/static/media/mozrog.3bcd987e.jpeg",
     "static/media/nargrunt.ca789e1b.jpg": "/campaign/static/media/nargrunt.ca789e1b.jpg",
@@ -133,6 +134,6 @@
     "static/js/runtime-main.c2239b30.js",
     "static/js/2.64e2c002.chunk.js",
     "static/css/main.d067ef63.chunk.css",
-    "static/js/main.2e118ade.chunk.js"
+    "static/js/main.698b1cf1.chunk.js"
   ]
 }
