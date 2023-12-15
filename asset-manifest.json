@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.805e1330.css",
-    "main.js": "/campaign/static/js/main.47277b98.js",
+    "main.js": "/campaign/static/js/main.5d62453f.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -56,6 +56,8 @@
     "static/media/doom_fleet_invasion.jpg": "/campaign/static/media/doom_fleet_invasion.888185d44e7d70107495.jpg",
     "static/media/marshals_mules.jpg": "/campaign/static/media/marshals_mules.718a0d8b13cbba407996.jpg",
     "static/media/03-01.jpg": "/campaign/static/media/03-01.269cdcdf0f37fb738f9b.jpg",
+    "static/media/ludolf.jpg": "/campaign/static/media/ludolf.7c9518098e6768e8b9c6.jpg",
+    "static/media/jan.jpg": "/campaign/static/media/jan.82a902a51b064cd67c61.jpg",
     "static/media/zaldrotha_voidrender.jpg": "/campaign/static/media/zaldrotha_voidrender.92e95cd0ebf7607e84b9.jpg",
     "static/media/umbranox.jpg": "/campaign/static/media/umbranox.11e475a6a241c355958e.jpg",
     "static/media/galaxy.jpeg": "/campaign/static/media/galaxy.bcb2cebbeccc9a87b5a7.jpeg",
@@ -63,14 +65,17 @@
     "static/media/mophilus_prion.jpg": "/campaign/static/media/mophilus_prion.7c14027997f8b22cf707.jpg",
     "static/media/engelbert.jpg": "/campaign/static/media/engelbert.a399948757cc97a9d1f1.jpg",
     "static/media/02-02.jpg": "/campaign/static/media/02-02.cb7576e4fe02b39d87b5.jpg",
+    "static/media/tarcuin.jpg": "/campaign/static/media/tarcuin.60169b317acbd1ad740f.jpg",
     "static/media/317_lieutenant_raphe.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd7f1307198e06.jpg",
     "static/media/04-01.jpg": "/campaign/static/media/04-01.a1d9c2c155bb40478fe7.jpg",
     "static/media/bilge_squigz.jpg": "/campaign/static/media/bilge_squigz.f517426ed0e63668c102.jpg",
     "static/media/ork_skull.png": "/campaign/static/media/ork_skull.4c77e488a2a3973e0ef8.png",
     "static/media/hui_and_luden.jpg": "/campaign/static/media/hui_and_luden.df03f9938e5b0167ea06.jpg",
+    "static/media/albrecht.jpg": "/campaign/static/media/albrecht.1059d5f510d78bf24ab7.jpg",
     "static/media/amber_cloud.jpg": "/campaign/static/media/amber_cloud.a3729c4586a22c6ce059.jpg",
     "static/media/317_captain_kyser.jpg": "/campaign/static/media/317_captain_kyser.847f21efcb2980f7b012.jpg",
     "static/media/ork_armada.png": "/campaign/static/media/ork_armada.d57348b4c94f74589cf3.png",
+    "static/media/cuthbert.jpg": "/campaign/static/media/cuthbert.97c25b97a24a07a18447.jpg",
     "static/media/03-04.jpg": "/campaign/static/media/03-04.1f448b12f2f49ea56625.jpg",
     "static/media/hegesthean_dusters.jpg": "/campaign/static/media/hegesthean_dusters.642508bc8e617df0a95a.jpg",
     "static/media/red.jpeg": "/campaign/static/media/red.ac7cecd5d25ae4af6ff9.jpeg",
@@ -160,10 +165,10 @@
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
     "main.805e1330.css.map": "/campaign/static/css/main.805e1330.css.map",
-    "main.47277b98.js.map": "/campaign/static/js/main.47277b98.js.map"
+    "main.5d62453f.js.map": "/campaign/static/js/main.5d62453f.js.map"
   },
   "entrypoints": [
     "static/css/main.805e1330.css",
-    "static/js/main.47277b98.js"
+    "static/js/main.5d62453f.js"
   ]
 }
