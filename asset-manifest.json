@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.805e1330.css",
-    "main.js": "/campaign/static/js/main.a2c7aabc.js",
+    "main.js": "/campaign/static/js/main.a74ccee2.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -21,7 +21,7 @@
     "static/media/05-02.png": "/campaign/static/media/05-02.f792a4c9e5eaac0dfda6.png",
     "static/media/01-05.png": "/campaign/static/media/01-05.4aa566c8d3a9dc0c868c.png",
     "static/media/01-04.jpg": "/campaign/static/media/01-04.aeadf2a966aef1d54576.jpg",
-    "static/media/01-02.jpg": "/campaign/static/media/01-02.02abd6edaf7591e56cbd.jpg",
+    "static/media/01-02.jpg": "/campaign/static/media/01-02.de0421b01beff722471a.jpg",
     "static/media/06-01.jpg": "/campaign/static/media/06-01.2a4e253a31948e42ff0f.jpg",
     "static/media/forward_push_aerial.jpg": "/campaign/static/media/forward_push_aerial.f31d49bb5715abcffa6d.jpg",
     "static/media/phyletic_vector.jpg": "/campaign/static/media/phyletic_vector.16bcd77461ab668df5c8.jpg",
@@ -32,7 +32,6 @@
     "static/media/ai_gandymere.jpg": "/campaign/static/media/ai_gandymere.73ce7882d263eaffcbd5.jpg",
     "static/media/sentinel_of_duty.jpg": "/campaign/static/media/sentinel_of_duty.85805590791e42b848f1.jpg",
     "static/media/hold_the_door.jpg": "/campaign/static/media/hold_the_door.1400a220a140f1b402b9.jpg",
-    "static/media/00-00.jpg": "/campaign/static/media/00-00.bc510703d94426e34baf.jpg",
     "static/media/eryx_knight.jpg": "/campaign/static/media/eryx_knight.818cedc5829c0f52347d.jpg",
     "static/media/01-01.jpg": "/campaign/static/media/01-01.3f2dd61f61788d8a85f1.jpg",
     "static/media/03-03.jpg": "/campaign/static/media/03-03.1e1aa0e2f593199ae041.jpg",
@@ -60,6 +59,7 @@
     "static/media/ludolf.jpg": "/campaign/static/media/ludolf.7c9518098e6768e8b9c6.jpg",
     "static/media/jan.jpg": "/campaign/static/media/jan.82a902a51b064cd67c61.jpg",
     "static/media/zaldrotha_voidrender.jpg": "/campaign/static/media/zaldrotha_voidrender.92e95cd0ebf7607e84b9.jpg",
+    "static/media/whisperer.jpg": "/campaign/static/media/whisperer.75717b5d812379177b87.jpg",
     "static/media/umbranox.jpg": "/campaign/static/media/umbranox.11e475a6a241c355958e.jpg",
     "static/media/galaxy.jpeg": "/campaign/static/media/galaxy.bcb2cebbeccc9a87b5a7.jpeg",
     "static/media/lord_vargouille.jpg": "/campaign/static/media/lord_vargouille.61c58b0223dbe411eefc.jpg",
@@ -82,6 +82,7 @@
     "static/media/red.jpeg": "/campaign/static/media/red.ac7cecd5d25ae4af6ff9.jpeg",
     "static/media/gsc_flag.jpg": "/campaign/static/media/gsc_flag.0db4fa45b6a075d4f42e.jpg",
     "static/media/03-05.jpg": "/campaign/static/media/03-05.e5091e4127edb59fe052.jpg",
+    "static/media/lucretia.jpg": "/campaign/static/media/lucretia.05bfeee12adb1cb2f588.jpg",
     "static/media/tank.png": "/campaign/static/media/tank.3b69a148e6f124b770e0.png",
     "static/media/bfg.png": "/campaign/static/media/bfg.e52f4aeabd3cb191d762.png",
     "static/media/02-03.jpg": "/campaign/static/media/02-03.182eb3340f96749ce789.jpg",
@@ -167,10 +168,10 @@
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
     "main.805e1330.css.map": "/campaign/static/css/main.805e1330.css.map",
-    "main.a2c7aabc.js.map": "/campaign/static/js/main.a2c7aabc.js.map"
+    "main.a74ccee2.js.map": "/campaign/static/js/main.a74ccee2.js.map"
   },
   "entrypoints": [
     "static/css/main.805e1330.css",
-    "static/js/main.a2c7aabc.js"
+    "static/js/main.a74ccee2.js"
   ]
 }
