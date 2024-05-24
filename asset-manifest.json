@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.ae2ed3ed.css",
-    "main.js": "/campaign/static/js/main.eb6d48b7.js",
+    "main.js": "/campaign/static/js/main.35f27a5d.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -43,6 +43,7 @@
     "static/media/01-01.jpg": "/campaign/static/media/01-01.3f2dd61f61788d8a85f1.jpg",
     "static/media/03-03.jpg": "/campaign/static/media/03-03.1e1aa0e2f593199ae041.jpg",
     "static/media/chaos_victorious.jpg": "/campaign/static/media/chaos_victorious.934f6c4a9476fffe3a47.jpg",
+    "static/media/03-02.jpg": "/campaign/static/media/03-02.2136062438404f7860cf.jpg",
     "static/media/doom_fleet.jpg": "/campaign/static/media/doom_fleet.ca3f46a6f38982c7f2c8.jpg",
     "static/media/imperial_line.jpg": "/campaign/static/media/imperial_line.7ebf501289be4c7b424d.jpg",
     "static/media/03-01.jpg": "/campaign/static/media/03-01.269cdcdf0f37fb738f9b.jpg",
@@ -55,7 +56,6 @@
     "static/media/02-03.png": "/campaign/static/media/02-03.c4bc28ea2defa05f853f.png",
     "static/media/lugnutz.jpg": "/campaign/static/media/lugnutz.2bd97ecaa924ebb9219e.jpg",
     "static/media/umbra_mortis.jpg": "/campaign/static/media/umbra_mortis.e7f077b3e81d541a49e1.jpg",
-    "static/media/03-02.jpg": "/campaign/static/media/03-02.2136062438404f7860cf.jpg",
     "static/media/battlefleet.png": "/campaign/static/media/battlefleet.49a625969a85dc86e2a6.png",
     "static/media/04-01.jpg": "/campaign/static/media/04-01.a1d9c2c155bb40478fe7.jpg",
     "static/media/decker_bask.jpg": "/campaign/static/media/decker_bask.ac0d762ae17362c5906f.jpg",
@@ -170,10 +170,10 @@
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
     "main.ae2ed3ed.css.map": "/campaign/static/css/main.ae2ed3ed.css.map",
-    "main.eb6d48b7.js.map": "/campaign/static/js/main.eb6d48b7.js.map"
+    "main.35f27a5d.js.map": "/campaign/static/js/main.35f27a5d.js.map"
   },
   "entrypoints": [
     "static/css/main.ae2ed3ed.css",
-    "static/js/main.eb6d48b7.js"
+    "static/js/main.35f27a5d.js"
   ]
 }
