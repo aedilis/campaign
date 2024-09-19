@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.ae2ed3ed.css",
-    "main.js": "/campaign/static/js/main.e35a53f3.js",
+    "main.js": "/campaign/static/js/main.dabbf20c.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -30,7 +30,7 @@
     "static/media/01-05.jpg": "/campaign/static/media/01-05.2fb69b60caed9dc9c9b6.jpg",
     "static/media/01-03.jpg": "/campaign/static/media/01-03.e1a8c1f31fc2f7664e7b.jpg",
     "static/media/ork_line.jpg": "/campaign/static/media/ork_line.a04829f0a4675cea9434.jpg",
-    "static/media/05-02.jpg": "/campaign/static/media/05-02.ef5966f585f14ca3afc8.jpg",
+    "static/media/05-02.jpg": "/campaign/static/media/05-02.910eb7e27d4298cf7007.jpg",
     "static/media/aquila_illustris.jpg": "/campaign/static/media/aquila_illustris.659d5868181980426bec.jpg",
     "static/media/ai_gandymere.jpg": "/campaign/static/media/ai_gandymere.73ce7882d263eaffcbd5.jpg",
     "static/media/sentinel_of_duty.jpg": "/campaign/static/media/sentinel_of_duty.85805590791e42b848f1.jpg",
@@ -67,7 +67,9 @@
     "static/media/ludolf.jpg": "/campaign/static/media/ludolf.7c9518098e6768e8b9c6.jpg",
     "static/media/jan.jpg": "/campaign/static/media/jan.82a902a51b064cd67c61.jpg",
     "static/media/zaldrotha_voidrender.jpg": "/campaign/static/media/zaldrotha_voidrender.92e95cd0ebf7607e84b9.jpg",
+    "static/media/07-01.jpg": "/campaign/static/media/07-01.5eeb247c25f88b64b993.jpg",
     "static/media/whisperer.jpg": "/campaign/static/media/whisperer.75717b5d812379177b87.jpg",
+    "static/media/07-02.jpg": "/campaign/static/media/07-02.acfdef0a1f8a4190cd5c.jpg",
     "static/media/umbranox.jpg": "/campaign/static/media/umbranox.11e475a6a241c355958e.jpg",
     "static/media/galaxy.jpeg": "/campaign/static/media/galaxy.bcb2cebbeccc9a87b5a7.jpeg",
     "static/media/lord_vargouille.jpg": "/campaign/static/media/lord_vargouille.61c58b0223dbe411eefc.jpg",
@@ -84,9 +86,11 @@
     "static/media/ork_armada.png": "/campaign/static/media/ork_armada.d57348b4c94f74589cf3.png",
     "static/media/cuthbert.jpg": "/campaign/static/media/cuthbert.97c25b97a24a07a18447.jpg",
     "static/media/03-04.jpg": "/campaign/static/media/03-04.1f448b12f2f49ea56625.jpg",
+    "static/media/urlakkSplash.jpg": "/campaign/static/media/urlakkSplash.abc7b5de0e5dae35b819.jpg",
     "static/media/hegesthean_dusters.jpg": "/campaign/static/media/hegesthean_dusters.642508bc8e617df0a95a.jpg",
     "static/media/red.jpeg": "/campaign/static/media/red.ac7cecd5d25ae4af6ff9.jpeg",
     "static/media/gsc_flag.jpg": "/campaign/static/media/gsc_flag.0db4fa45b6a075d4f42e.jpg",
+    "static/media/06-02.jpg": "/campaign/static/media/06-02.979c579941eb9773b396.jpg",
     "static/media/03-05.jpg": "/campaign/static/media/03-05.e5091e4127edb59fe052.jpg",
     "static/media/lucretia.jpg": "/campaign/static/media/lucretia.05bfeee12adb1cb2f588.jpg",
     "static/media/tank.png": "/campaign/static/media/tank.3b69a148e6f124b770e0.png",
@@ -170,10 +174,10 @@
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
     "main.ae2ed3ed.css.map": "/campaign/static/css/main.ae2ed3ed.css.map",
-    "main.e35a53f3.js.map": "/campaign/static/js/main.e35a53f3.js.map"
+    "main.dabbf20c.js.map": "/campaign/static/js/main.dabbf20c.js.map"
   },
   "entrypoints": [
     "static/css/main.ae2ed3ed.css",
-    "static/js/main.e35a53f3.js"
+    "static/js/main.dabbf20c.js"
   ]
 }
