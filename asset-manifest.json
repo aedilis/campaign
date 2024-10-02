@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.ae2ed3ed.css",
-    "main.js": "/campaign/static/js/main.dabbf20c.js",
+    "main.css": "/campaign/static/css/main.45c36cba.css",
+    "main.js": "/campaign/static/js/main.427f40dd.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -21,7 +21,7 @@
     "static/media/05-02.png": "/campaign/static/media/05-02.f792a4c9e5eaac0dfda6.png",
     "static/media/01-05.png": "/campaign/static/media/01-05.4aa566c8d3a9dc0c868c.png",
     "static/media/01-04.jpg": "/campaign/static/media/01-04.aeadf2a966aef1d54576.jpg",
-    "static/media/01-02.jpg": "/campaign/static/media/01-02.de0421b01beff722471a.jpg",
+    "static/media/01-02.jpg": "/campaign/static/media/01-02.282547dafad4fc38f223.jpg",
     "static/media/06-01.jpg": "/campaign/static/media/06-01.2a4e253a31948e42ff0f.jpg",
     "static/media/forward_push_aerial.jpg": "/campaign/static/media/forward_push_aerial.f31d49bb5715abcffa6d.jpg",
     "static/media/phyletic_vector.jpg": "/campaign/static/media/phyletic_vector.16bcd77461ab668df5c8.jpg",
@@ -83,6 +83,7 @@
     "static/media/albrecht.jpg": "/campaign/static/media/albrecht.1059d5f510d78bf24ab7.jpg",
     "static/media/amber_cloud.jpg": "/campaign/static/media/amber_cloud.a3729c4586a22c6ce059.jpg",
     "static/media/317_captain_kyser.jpg": "/campaign/static/media/317_captain_kyser.847f21efcb2980f7b012.jpg",
+    "static/media/umbra-mortis.jpg": "/campaign/static/media/umbra-mortis.1470058d6e84bc3e6515.jpg",
     "static/media/ork_armada.png": "/campaign/static/media/ork_armada.d57348b4c94f74589cf3.png",
     "static/media/cuthbert.jpg": "/campaign/static/media/cuthbert.97c25b97a24a07a18447.jpg",
     "static/media/03-04.jpg": "/campaign/static/media/03-04.1f448b12f2f49ea56625.jpg",
@@ -158,6 +159,7 @@
     "static/media/navy.svg": "/campaign/static/media/navy.4e9f6ab27e7ba366958c20c249bc3403.svg",
     "static/media/ai_orks.svg": "/campaign/static/media/ai_orks.a3164f1507a70a6f69fee2220f39a5cd.svg",
     "static/media/gsc.svg": "/campaign/static/media/gsc.530ea8886b4be23b9842442f178b0779.svg",
+    "static/media/chaos_knights.svg": "/campaign/static/media/chaos_knights.ff27747a2c45ceb5205e888de3ed69d9.svg",
     "static/media/night_lords.svg": "/campaign/static/media/night_lords.8f44c58755fcaf960be2abac18145759.svg",
     "static/media/admech.svg": "/campaign/static/media/admech.ad5849421f2536bfac3a0907a3fb6e18.svg",
     "static/media/freebooterz.svg": "/campaign/static/media/freebooterz.e3feff643267a2dcb987d72a00d5cf94.svg",
@@ -173,11 +175,11 @@
     "static/media/tashvar.svg": "/campaign/static/media/tashvar.dcda2da2bacf0587aa4d372c3947d6ff.svg",
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
-    "main.ae2ed3ed.css.map": "/campaign/static/css/main.ae2ed3ed.css.map",
-    "main.dabbf20c.js.map": "/campaign/static/js/main.dabbf20c.js.map"
+    "main.45c36cba.css.map": "/campaign/static/css/main.45c36cba.css.map",
+    "main.427f40dd.js.map": "/campaign/static/js/main.427f40dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae2ed3ed.css",
-    "static/js/main.dabbf20c.js"
+    "static/css/main.45c36cba.css",
+    "static/js/main.427f40dd.js"
   ]
 }
