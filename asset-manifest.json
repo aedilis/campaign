@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.45c36cba.css",
-    "main.js": "/campaign/static/js/main.464f3326.js",
+    "main.css": "/campaign/static/css/main.ef11f4d0.css",
+    "main.js": "/campaign/static/js/main.a9c68b69.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -83,7 +83,6 @@
     "static/media/farseerC.png": "/campaign/static/media/farseerC.5f0d3761a35aeb5ceed9.png",
     "static/media/317_lieutenant_raphe.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd7f1307198e06.jpg",
     "static/media/bilge_squigz.jpg": "/campaign/static/media/bilge_squigz.f517426ed0e63668c102.jpg",
-    "static/media/ork_skull.png": "/campaign/static/media/ork_skull.4c77e488a2a3973e0ef8.png",
     "static/media/hui_and_luden.jpg": "/campaign/static/media/hui_and_luden.df03f9938e5b0167ea06.jpg",
     "static/media/albrecht.jpg": "/campaign/static/media/albrecht.1059d5f510d78bf24ab7.jpg",
     "static/media/amber_cloud.jpg": "/campaign/static/media/amber_cloud.a3729c4586a22c6ce059.jpg",
@@ -194,6 +193,7 @@
     "static/media/freebooterz.svg": "/campaign/static/media/freebooterz.e3feff643267a2dcb987d72a00d5cf94.svg",
     "static/media/knights.svg": "/campaign/static/media/knights.ef2f5957cc3df0fb3d915e72a7bbb95e.svg",
     "static/media/inquisition.svg": "/campaign/static/media/inquisition.8a29cfdffd4a65f7084a6f6508535cec.svg",
+    "static/media/world_eaters.svg": "/campaign/static/media/world_eaters.6e7c51812d1a2e4931b57076cc70a81a.svg",
     "static/media/kroot.svg": "/campaign/static/media/kroot.cd510f4494106a589e6a312412af7e84.svg",
     "static/media/orks.svg": "/campaign/static/media/orks.6ef5df5d67d3e807e073e6b0e7147b14.svg",
     "static/media/aeldari.svg": "/campaign/static/media/aeldari.53777781b31561c324589049ad7b6a75.svg",
@@ -201,15 +201,14 @@
     "static/media/crosshairs.svg": "/campaign/static/media/crosshairs.a428fdaa3ce912b848a882d20da5417a.svg",
     "static/media/black_templars.svg": "/campaign/static/media/black_templars.533be69e42cd33b3ab22128bc9f87018.svg",
     "static/media/necrons.svg": "/campaign/static/media/necrons.51debd4dd7dfcee6cd543a092fc1d5ab.svg",
-    "static/media/tashvar.svg": "/campaign/static/media/tashvar.dcda2da2bacf0587aa4d372c3947d6ff.svg",
     "static/media/tau.svg": "/campaign/static/media/tau.1c0c9644af8870188dea87f4c5c18f15.svg",
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
-    "main.45c36cba.css.map": "/campaign/static/css/main.45c36cba.css.map",
-    "main.464f3326.js.map": "/campaign/static/js/main.464f3326.js.map"
+    "main.ef11f4d0.css.map": "/campaign/static/css/main.ef11f4d0.css.map",
+    "main.a9c68b69.js.map": "/campaign/static/js/main.a9c68b69.js.map"
   },
   "entrypoints": [
-    "static/css/main.45c36cba.css",
-    "static/js/main.464f3326.js"
+    "static/css/main.ef11f4d0.css",
+    "static/js/main.a9c68b69.js"
   ]
 }
