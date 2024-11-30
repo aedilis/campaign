@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.8c65ebb2.css",
-    "main.js": "/campaign/static/js/main.c4c58068.js",
+    "main.js": "/campaign/static/js/main.b8e10bd3.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -61,13 +61,13 @@
     "static/media/battlefleet.png": "/campaign/static/media/battlefleet.49a625969a85dc86e2a6.png",
     "static/media/04-01.jpg": "/campaign/static/media/04-01.a1d9c2c155bb40478fe7.jpg",
     "static/media/gitC.jpg": "/campaign/static/media/gitC.02534ddb897f117488da.jpg",
-    "static/media/decker_bask.jpg": "/campaign/static/media/decker_bask.ac0d762ae17362c5906f.jpg",
     "static/media/myasum_clostrid.jpg": "/campaign/static/media/myasum_clostrid.98eb2b3ca9f4f9b5bd8a.jpg",
     "static/media/gitstompa.jpg": "/campaign/static/media/gitstompa.c4fb54e6e2937bf6a561.jpg",
     "static/media/big-mek.png": "/campaign/static/media/big-mek.476cae52b5d16cd64535.png",
     "static/media/doom_fleet_invasion.jpg": "/campaign/static/media/doom_fleet_invasion.888185d44e7d70107495.jpg",
     "static/media/daybreakC.png": "/campaign/static/media/daybreakC.f36273caa356767adc0c.png",
     "static/media/marshals_mules.jpg": "/campaign/static/media/marshals_mules.718a0d8b13cbba407996.jpg",
+    "static/media/decker_bask.jpg": "/campaign/static/media/decker_bask.2da18b60ab532da86f98.jpg",
     "static/media/ludolf.jpg": "/campaign/static/media/ludolf.7c9518098e6768e8b9c6.jpg",
     "static/media/jan.jpg": "/campaign/static/media/jan.82a902a51b064cd67c61.jpg",
     "static/media/07-01.jpg": "/campaign/static/media/07-01.5eeb247c25f88b64b993.jpg",
@@ -76,9 +76,9 @@
     "static/media/umbranox.jpg": "/campaign/static/media/umbranox.11e475a6a241c355958e.jpg",
     "static/media/ulrich.jpg": "/campaign/static/media/ulrich.d12284d7e218365ed7b2.jpg",
     "static/media/galaxy.jpeg": "/campaign/static/media/galaxy.bcb2cebbeccc9a87b5a7.jpeg",
-    "static/media/lord_vargouille.jpg": "/campaign/static/media/lord_vargouille.61c58b0223dbe411eefc.jpg",
-    "static/media/mophilus_prion.jpg": "/campaign/static/media/mophilus_prion.7c14027997f8b22cf707.jpg",
+    "static/media/mophilus_prion.jpg": "/campaign/static/media/mophilus_prion.604b26e163493cd680e6.jpg",
     "static/media/tarcuin.jpg": "/campaign/static/media/tarcuin.60169b317acbd1ad740f.jpg",
+    "static/media/lord_vargouille.jpg": "/campaign/static/media/lord_vargouille.21a6962e3ea237d0c56d.jpg",
     "static/media/farseerC.png": "/campaign/static/media/farseerC.5f0d3761a35aeb5ceed9.png",
     "static/media/317_lieutenant_raphe.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd7f1307198e06.jpg",
     "static/media/bilge_squigz.jpg": "/campaign/static/media/bilge_squigz.f517426ed0e63668c102.jpg",
@@ -151,7 +151,7 @@
     "static/media/zodgrod.jpg": "/campaign/static/media/zodgrod.fc3c21c96d8f93c782dc.jpg",
     "static/media/kogrekka.jpeg": "/campaign/static/media/kogrekka.eb34cd04bcf415fef4c5.jpeg",
     "static/media/zagstruk.jpeg": "/campaign/static/media/zagstruk.8fef9e15b222a863bcbb.jpeg",
-    "static/media/malithor.jpg": "/campaign/static/media/malithor.32bb34221b6e690fc09e.jpg",
+    "static/media/malithor.jpg": "/campaign/static/media/malithor.b9117d1820648f8564ec.jpg",
     "static/media/varagC.jpg": "/campaign/static/media/varagC.9e579559885c66591efc.jpg",
     "static/media/toofk.jpg": "/campaign/static/media/toofk.7ca21b49b9af557a7b3a.jpg",
     "static/media/badbreff.jpeg": "/campaign/static/media/badbreff.9560b242cefbb41a07dc.jpeg",
@@ -217,10 +217,10 @@
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
     "main.8c65ebb2.css.map": "/campaign/static/css/main.8c65ebb2.css.map",
-    "main.c4c58068.js.map": "/campaign/static/js/main.c4c58068.js.map"
+    "main.b8e10bd3.js.map": "/campaign/static/js/main.b8e10bd3.js.map"
   },
   "entrypoints": [
     "static/css/main.8c65ebb2.css",
-    "static/js/main.c4c58068.js"
+    "static/js/main.b8e10bd3.js"
   ]
 }
