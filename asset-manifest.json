@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.8c65ebb2.css",
-    "main.js": "/campaign/static/js/main.b8e10bd3.js",
+    "main.js": "/campaign/static/js/main.bf0058cf.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
     "static/media/07-01.png": "/campaign/static/media/07-01.0248b3cedf0ef0c25651.png",
@@ -14,6 +14,7 @@
     "static/media/02-01.png": "/campaign/static/media/02-01.39a1a1b96ddc952942f9.png",
     "static/media/01-06.png": "/campaign/static/media/01-06.a843d3c8c14d9275c226.png",
     "static/media/01-04.png": "/campaign/static/media/01-04.2be85a4c29207b3736db.png",
+    "static/media/kharghur.jpg": "/campaign/static/media/kharghur.0b3ffec9f12edff5fddd.jpg",
     "static/media/02-02.png": "/campaign/static/media/02-02.76ea2af5a17b2314b426.png",
     "static/media/04-01.png": "/campaign/static/media/04-01.18dd2c1bfe2ff4da38ed.png",
     "static/media/03-02.png": "/campaign/static/media/03-02.f0db6b2cfd93f20c8900.png",
@@ -69,7 +70,6 @@
     "static/media/marshals_mules.jpg": "/campaign/static/media/marshals_mules.718a0d8b13cbba407996.jpg",
     "static/media/decker_bask.jpg": "/campaign/static/media/decker_bask.2da18b60ab532da86f98.jpg",
     "static/media/ludolf.jpg": "/campaign/static/media/ludolf.7c9518098e6768e8b9c6.jpg",
-    "static/media/jan.jpg": "/campaign/static/media/jan.82a902a51b064cd67c61.jpg",
     "static/media/07-01.jpg": "/campaign/static/media/07-01.5eeb247c25f88b64b993.jpg",
     "static/media/whisperer.jpg": "/campaign/static/media/whisperer.75717b5d812379177b87.jpg",
     "static/media/07-02.jpg": "/campaign/static/media/07-02.acfdef0a1f8a4190cd5c.jpg",
@@ -113,6 +113,7 @@
     "static/media/bfg.png": "/campaign/static/media/bfg.e52f4aeabd3cb191d762.png",
     "static/media/04-03.jpg": "/campaign/static/media/04-03.c055b4604588165bf116.jpg",
     "static/media/overlay.png": "/campaign/static/media/overlay.30aeecbb62f80fc7a46e.png",
+    "static/media/jan.jpg": "/campaign/static/media/jan.324425f8596bd3ac1ef4.jpg",
     "static/media/skraptoof.jpeg": "/campaign/static/media/skraptoof.6aa546e7f706d0c5fccc.jpeg",
     "static/media/swampC.jpeg": "/campaign/static/media/swampC.e6165053520e2376be45.jpeg",
     "static/media/ghaz.jpg": "/campaign/static/media/ghaz.91bc4b7df82fa22c91c8.jpg",
@@ -121,7 +122,6 @@
     "static/media/kelermorphC.png": "/campaign/static/media/kelermorphC.d35fcc3a79dd3e827916.png",
     "static/media/saboteurC.png": "/campaign/static/media/saboteurC.0f51a902c6316163306d.png",
     "static/media/artillery.png": "/campaign/static/media/artillery.6987e426504e0024aa96.png",
-    "static/media/kharghur.jpg": "/campaign/static/media/kharghur.0b3ffec9f12edff5fddd.jpg",
     "static/media/leapC.png": "/campaign/static/media/leapC.105d71371afc6ab16d5d.png",
     "static/media/bullgryns_chase_termies.jpg": "/campaign/static/media/bullgryns_chase_termies.8dd5e3f544c957f00321.jpg",
     "static/media/reinhardt-bladeguard.jpg": "/campaign/static/media/reinhardt-bladeguard.db611d97c60d3c3ac83c.jpg",
@@ -217,10 +217,10 @@
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
     "main.8c65ebb2.css.map": "/campaign/static/css/main.8c65ebb2.css.map",
-    "main.b8e10bd3.js.map": "/campaign/static/js/main.b8e10bd3.js.map"
+    "main.bf0058cf.js.map": "/campaign/static/js/main.bf0058cf.js.map"
   },
   "entrypoints": [
     "static/css/main.8c65ebb2.css",
-    "static/js/main.b8e10bd3.js"
+    "static/js/main.bf0058cf.js"
   ]
 }
