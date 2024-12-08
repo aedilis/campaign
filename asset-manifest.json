@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.6b5a164f.css",
+    "main.css": "/campaign/static/css/main.d6e2b748.css",
     "main.js": "/campaign/static/js/main.dc5b1e43.js",
     "static/media/01-03.png": "/campaign/static/media/01-03.f698593626aef2981302.png",
     "static/media/06-02.png": "/campaign/static/media/06-02.469a94cb41fb01e4c2a5.png",
@@ -123,7 +123,6 @@
     "static/media/kelermorphC.png": "/campaign/static/media/kelermorphC.d35fcc3a79dd3e827916.png",
     "static/media/saboteurC.png": "/campaign/static/media/saboteurC.0f51a902c6316163306d.png",
     "static/media/artillery.png": "/campaign/static/media/artillery.6987e426504e0024aa96.png",
-    "static/media/DynaPuff-VariableFont_wdth,wght.ttf": "/campaign/static/media/DynaPuff-VariableFont_wdth,wght.6c189ed90c6bc87a7610.ttf",
     "static/media/wortskab.jpg": "/campaign/static/media/wortskab.cce8e64f9041e6d63c3a.jpg",
     "static/media/leapC.png": "/campaign/static/media/leapC.105d71371afc6ab16d5d.png",
     "static/media/bullgryns_chase_termies.jpg": "/campaign/static/media/bullgryns_chase_termies.8dd5e3f544c957f00321.jpg",
@@ -167,6 +166,7 @@
     "static/media/weirdC.jpg": "/campaign/static/media/weirdC.233831dfef0c5da5a5d0.jpg",
     "static/media/toofkrakka.jpg": "/campaign/static/media/toofkrakka.5a0d12f0f53fd7102e51.jpg",
     "static/media/ambotC.jpg": "/campaign/static/media/ambotC.c53581df02b71a3b401a.jpg",
+    "static/media/Chewy-Regular.ttf": "/campaign/static/media/Chewy-Regular.e94e4ae6b454c4a3e69c.ttf",
     "static/media/HondaRegular.ttf": "/campaign/static/media/HondaRegular.ff298ba3cd1cf45aa61b.ttf",
     "static/media/beast2C.jpg": "/campaign/static/media/beast2C.767176a47e229da7f11b.jpg",
     "static/media/angels_of_death.svg": "/campaign/static/media/angels_of_death.bd61a01628fc383615e426cde324bd70.svg",
@@ -219,11 +219,11 @@
     "static/media/tau.svg": "/campaign/static/media/tau.1c0c9644af8870188dea87f4c5c18f15.svg",
     "index.html": "/campaign/index.html",
     "static/media/outcasts.svg": "/campaign/static/media/outcasts.c96da450fc053d365314f286e8cac304.svg",
-    "main.6b5a164f.css.map": "/campaign/static/css/main.6b5a164f.css.map",
+    "main.d6e2b748.css.map": "/campaign/static/css/main.d6e2b748.css.map",
     "main.dc5b1e43.js.map": "/campaign/static/js/main.dc5b1e43.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b5a164f.css",
+    "static/css/main.d6e2b748.css",
     "static/js/main.dc5b1e43.js"
   ]
 }
