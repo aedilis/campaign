@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[802],{3183:(a,e,c)=>{a.exports=c.p+"static/media/urlakk-loudgob.6654e9b72d6ba4dc00ec.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[884],{8884:(a,e,s)=>{a.exports=s.p+"static/media/wortskab.e1e13549639d92655c35.md"}}]);

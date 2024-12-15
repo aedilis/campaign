@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[231],{3231:(a,c,e)=>{a.exports=e.p+"static/media/marshal-ulrich.422c8b87bcb2e7898e04.md"}}]);

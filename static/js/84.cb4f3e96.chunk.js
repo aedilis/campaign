@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[84],{84:(e,a,k)=>{e.exports=k.p+"static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md"}}]);
