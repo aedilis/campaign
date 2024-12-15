@@ -1,0 +1,17 @@
+> QUOTATION
+>
+> Let us not waste the opportunity those bombers gave us! Turn those craters into the Orks' graves! For the 317th, and for the Emperor!
+>
+> &mdash; Captain Kyser, Third Company
+
+[Captain Kyser](#/characters/captain-kyser) of the 317th's Third Company personally leads [Lieutenant Raphe's](#/characters/lieutenant-raphe) Fourth Platoon to clear all survivors from the Ork encampment, still smoldering from the [previous night's bombardment](#/events/hegesthes-bombing-run). Furious Orks swarm out to meet the aggressor amidst the ruins of their camp, but with few structures still standing they face long, open shooting lines before the might of the Imperium's gunline.
+
+The Imperial forces advance and fire under disciplined orders from their commanders, with devastating consequences for the opposing xenos. The Ork Deff Dread is destroyed immediately by heavy tank weaponry, most of the heavy guns of the Flash Gitz mercenaries are dropped by concentrated infantry fire, and mixed fire from guardsmen and the sentinels takes out a majority of the exposed shoota boys. The Orks scramble to rearrange themselves with so many holes in their line, unable to offer much of a response in their own shooting. What heavy guns survive target the encroaching Hellhound and the warbikers mobilize against the infantry on their right flank.
+
+This scattered response is all the opening the servants of the Emperor need. Sentinels, infantry, and the captain's Chimera mow down the final shoota Orks and claim their position, while the Hellhound clears the surviving Flash Gitz and fires on the main horde. The remaining Orks finally close range enough to mount their counteroffense: the warbikers charge into Lieutenant Raphe's command squad guns blazing, and the mass of remaining boyz led by Ghurrok charge the Hellhound. The warboss's power klaw makes short work of the tank, and his subordinates let their momentum carry them into the now-isolated sentinels.
+
+Lieutenant Raphe watches the bikers descend on his position, knowing that his timing will be everything. The Orks are brutal in close combat, but one biker has been injured by small arms fire, and one less choppa in the fight may be the difference between life and death. Trusting the Emperor to guide his strike, the lieutenant slices forward with his power sword at just the right moment, severing the cables dangling haphazardly from the Ork's bike and sending it careening into a crash. He feels a sharp pain in his wrist but an even more acute sense of righteousness; his banner will not fall today.
+
+The failure of the bikers to secure the flank heralds the end of the Orks' fortunes. Ghurrok's triumph in the wreckage of the deadly Hellhound is short-lived, as its absence leaves clear lines of shot on him and his retinue. All engaged imperial forces diligently fall back, and massed fire quickly drops the mek with his scrappy shield technology, followed quickly by Ghurrok and his remaining troops.
+
+With the death of Ork leadership and destruction of its main forces, the scattered remainder quickly crumbles before the platoon's advance. Not one Ork remains on the cratered battlefield as the medic treats Lieutenant Raphe's wrist and Captain Kyser radioes back news of their crushing victory. The war wages on, but this small stretch can be declared free of xenos and reclaimed by the Imperium.
