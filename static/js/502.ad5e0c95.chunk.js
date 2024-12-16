@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[502],{7502:(e,a,c)=>{e.exports=c.p+"static/media/discovery-in-the-wreckage.764180e07cab6595cd99.md"}}]);

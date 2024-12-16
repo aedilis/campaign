@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5743],{5743:(e,a,p)=>{e.exports=p.p+"static/media/omadikea.587d4e23ede6b6923e80.md"}}]);

@@ -1,5 +1,0 @@
-Wortskab, as with many weirdboyz, is a hard Ork to understand fully. The warband he came up in was [destroyed](#/events/hegesthes-outpost-kappa-12) in a battle with the [Hegesthean Dusters](#/factions/hegesthean-dusters) of Third Company, though Wortskab alone evaded the grasp of their [captain](#/characters/captain-kyser) at the time. He teleported away from that battle and wandered a bit before encountering a band of greenskins led by [Warboss Urlakk Loudgob](/#/characters-urlakk-loudgob), whereupon he suddenly seemed to become invested in gathering more and more Orks in the region.
-
-## A Growing Waaagh!
-
-Boss Urlakk thought the new weirdboy babbled a bit too much to make real sense, but Wortskab spoke of a group of 'umies who knew how to fight proppa, and that made it an easy sell. Urlakk gathered his troops and marched east, drawing enough attention to himself along the way that he attracted [and easily dispatched](#/events/green-tide-rises) a band of Scions attempting to take him out before he could become a threat. Wortskab assisted, and seems all the more eager to continue advancing on 'umie territory.

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[7395],{7395:(e,a,s)=>{e.exports=s.p+"static/media/green-tide-rises.cc33f1ebd7aa46eb0aa4.md"}}]);

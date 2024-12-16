@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4206],{4206:(a,e,s)=>{a.exports=s.p+"static/media/kalymnia-system.d37405fa8e74c1918532.md"}}]);

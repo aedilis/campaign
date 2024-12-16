@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[2858],{2858:(a,c,e)=>{a.exports=e.p+"static/media/void-phantom.2a8b082a5807262ce2c5.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[7176],{4795:(e,a,c)=>{e.exports=c.p+"static/media/gandymere.717e831a8ea470e25c1e.md"}}]);

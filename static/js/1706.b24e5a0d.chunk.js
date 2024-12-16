@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1706],{1706:(a,e,p)=>{a.exports=p.p+"static/media/belgatha.f5b82bfad7b7e0d52195.md"}}]);

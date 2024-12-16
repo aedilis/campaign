@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[961],{5961:(e,a,s)=>{e.exports=s.p+"static/media/slaughter-on-sublevel-185.eea3dab7b5df61c68598.md"}}]);

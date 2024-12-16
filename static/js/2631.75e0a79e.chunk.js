@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[2631],{5012:(c,e,a)=>{c.exports=a.p+"static/media/acheros.fe8b486cb47dbce385c6.md"}}]);

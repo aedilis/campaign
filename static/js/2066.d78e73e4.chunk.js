@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[2066],{2066:(a,e,c)=>{a.exports=c.p+"static/media/otto-umbranox.e1d39ab6d47269f3f2c2.md"}}]);

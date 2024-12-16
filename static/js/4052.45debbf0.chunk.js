@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4052],{4052:(a,e,c)=>{a.exports=c.p+"static/media/alektor.0964b0d4c5859736ab0d.md"}}]);

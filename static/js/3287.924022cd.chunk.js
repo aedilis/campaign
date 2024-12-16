@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[3287],{3287:(e,a,c)=>{e.exports=c.p+"static/media/perseverance.1b2ee37347b7bd87c8ea.md"}}]);

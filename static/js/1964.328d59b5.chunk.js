@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1964],{1964:(a,e,c)=>{a.exports=c.p+"static/media/badlandz.b55325ff163de8d03ec6.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[3286],{3286:(a,e,p)=>{a.exports=p.p+"static/media/kalymnia.2634383de3fab82a32ad.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[561],{561:(a,e,f)=>{a.exports=f.p+"static/media/lieutenant-raphe.5ffd9309f0ff588d2bdf.md"}}]);
