@@ -1,0 +1,1 @@
+Lord of the [Blood Reavers](#/factions/blood-reavers).

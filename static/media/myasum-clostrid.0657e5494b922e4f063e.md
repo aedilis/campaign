@@ -1,0 +1,1 @@
+Leader of the [Phyletic Vector](#/factions/phyletic-vector), a kill team serving under the [Plaguefester Warband](#/factions/plaguefester-warband). He first entered the [Tybar System](#/maps/tybar-system) from the [*Void Phantom*](#/maps/void-phantom), a Space Hulk that drifted through the system in late 023.M42.

@@ -1,1 +1,0 @@
-Leader of the Phyletic Vector, a kill team entering the Tybar System from the *Mournful Sepulchre*, a Space Hulk that drifted through the system in late 023.M42.
