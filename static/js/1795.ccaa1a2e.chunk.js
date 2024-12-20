@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1795],{1795:(a,e,c)=>{a.exports=c.p+"static/media/decker-bask.15d56c3f5fa7ce2bb76a.md"}}]);

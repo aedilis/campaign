@@ -1,0 +1,1 @@
+Perhaps the flashiest pilot of his flashy skwadron, Toofkrakka pilots his dakkajet with an abandon that has seen him shot out of the skies more than once. Still, luck seems to favor the indefatiguable flyboy, and it's never long before Toofkrakka's borderline suicidal piloting and signature markings are seen by the Imperium in another dogfight.

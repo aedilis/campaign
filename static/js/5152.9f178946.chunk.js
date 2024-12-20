@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5152],{5152:(a,e,k)=>{a.exports=k.p+"static/media/toofkrakka.37414738efa249823002.md"}}]);

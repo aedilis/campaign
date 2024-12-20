@@ -1,1 +1,0 @@
-Leader of the [Marshal's Mules](#/factions/marshals-mules), a kill team entering the Tybar System from the *Mournful Sepulchre*, a Space Hulk that drifted through the system in late 023.M42.

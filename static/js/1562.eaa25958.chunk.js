@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1562],{1562:(e,a,c)=>{e.exports=c.p+"static/media/phyletic-vector.e870d662896d88d1a811.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1928],{1928:(e,a,p)=>{e.exports=p.p+"static/media/the-doom-fleet.966961350b18b21278fe.md"}}]);

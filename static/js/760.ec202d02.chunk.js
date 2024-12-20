@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[760],{760:(a,e,s)=>{a.exports=s.p+"static/media/grazbogs-gitz.3840d0329a880e6ab254.md"}}]);

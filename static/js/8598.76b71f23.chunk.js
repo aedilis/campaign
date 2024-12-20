@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8598],{8598:(e,a,c)=>{e.exports=c.p+"static/media/kyrek-kindred.4ed31b0ea04aec922139.md"}}]);
