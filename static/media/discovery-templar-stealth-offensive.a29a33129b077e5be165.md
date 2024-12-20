@@ -27,20 +27,20 @@ With the field empty, the Mules fan out to assert their full control of the comp
 
 Operative|Result
 -|-
-Engelbert|2XP -> 5XP
-Tarcuin|1XP -> 2XP
-Cuthbert|3XP -> 5XP
-Jan|0XP -> 6XP<br>Chapter Exemplar: Accurate
-Ludolf|0XP -> 2XP
-Albrecht|2XP -> 3XP
+Engelbert|2XP &rarr; 5XP
+Tarcuin|1XP &rarr; 2XP
+Cuthbert|3XP &rarr; 5XP
+Jan|0XP &rarr; 6XP<br>Chapter Exemplar: Accurate
+Ludolf|0XP &rarr; 2XP
+Albrecht|2XP &rarr; 3XP
 
 ##### Rare Equipment: Targeting Ocular
 
 ##### Strategic Assets: Expanded Armoury; Hypno-Indoctrination Shrine
 
-##### Requisition Points: 3 -> 0
+##### Requisition Points: 3 &rarr; 0
 
-##### Secure Extraction Point: 0 -> 1
+##### Secure Extraction Point: 0 &rarr; 1
 
 # Conclusion
 

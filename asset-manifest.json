@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.b333e265.css",
-    "main.js": "/campaign/static/js/main.aa1dc53e.js",
+    "main.js": "/campaign/static/js/main.1c23c15c.js",
     "static/js/2631.75e0a79e.chunk.js": "/campaign/static/js/2631.75e0a79e.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.328d59b5.chunk.js": "/campaign/static/js/1964.328d59b5.chunk.js",
@@ -41,17 +41,17 @@
     "static/js/4323.2f8bbcb6.chunk.js": "/campaign/static/js/4323.2f8bbcb6.chunk.js",
     "static/js/7817.9d3ac60e.chunk.js": "/campaign/static/js/7817.9d3ac60e.chunk.js",
     "static/js/6058.c3f138de.chunk.js": "/campaign/static/js/6058.c3f138de.chunk.js",
-    "static/js/6311.f887247a.chunk.js": "/campaign/static/js/6311.f887247a.chunk.js",
-    "static/js/310.ddb92e18.chunk.js": "/campaign/static/js/310.ddb92e18.chunk.js",
+    "static/js/6311.8e234a25.chunk.js": "/campaign/static/js/6311.8e234a25.chunk.js",
+    "static/js/310.a46cb09b.chunk.js": "/campaign/static/js/310.a46cb09b.chunk.js",
     "static/js/2117.9e12aea2.chunk.js": "/campaign/static/js/2117.9e12aea2.chunk.js",
-    "static/js/2020.f93eca71.chunk.js": "/campaign/static/js/2020.f93eca71.chunk.js",
+    "static/js/2020.fa1bec5e.chunk.js": "/campaign/static/js/2020.fa1bec5e.chunk.js",
     "static/js/7395.576c7f69.chunk.js": "/campaign/static/js/7395.576c7f69.chunk.js",
     "static/js/5673.1c3a7786.chunk.js": "/campaign/static/js/5673.1c3a7786.chunk.js",
     "static/js/3041.c9dc86de.chunk.js": "/campaign/static/js/3041.c9dc86de.chunk.js",
     "static/js/7469.896793b9.chunk.js": "/campaign/static/js/7469.896793b9.chunk.js",
     "static/js/4334.69a0cf9f.chunk.js": "/campaign/static/js/4334.69a0cf9f.chunk.js",
     "static/js/5961.aec4fe1f.chunk.js": "/campaign/static/js/5961.aec4fe1f.chunk.js",
-    "static/js/3015.1644a8ab.chunk.js": "/campaign/static/js/3015.1644a8ab.chunk.js",
+    "static/js/3015.ccbfe06d.chunk.js": "/campaign/static/js/3015.ccbfe06d.chunk.js",
     "static/js/6043.5132f73d.chunk.js": "/campaign/static/js/6043.5132f73d.chunk.js",
     "static/js/4503.f06beb8f.chunk.js": "/campaign/static/js/4503.f06beb8f.chunk.js",
     "static/js/267.78795369.chunk.js": "/campaign/static/js/267.78795369.chunk.js",
@@ -335,11 +335,11 @@
     "static/media/battle-of-hive-aspidopolis.md": "/campaign/static/media/battle-of-hive-aspidopolis.478e436b0e76e6ed6c1c.md",
     "static/media/ashes-of-faith.md": "/campaign/static/media/ashes-of-faith.e9ef259cc3901c2feccf.md",
     "static/media/tyranids.svg": "/campaign/static/media/tyranids.3c4d69b91138a11feea1b2b9ffa84f80.svg",
-    "static/media/smoking-ruin-showdown.md": "/campaign/static/media/smoking-ruin-showdown.018dd101ddf38fa6ff92.md",
+    "static/media/smoking-ruin-showdown.md": "/campaign/static/media/smoking-ruin-showdown.ec6344efe868942be06f.md",
     "static/media/daybreak-protectorate.md": "/campaign/static/media/daybreak-protectorate.609e53969e6856e45e6e.md",
     "static/media/death_guard.svg": "/campaign/static/media/death_guard.91839b264190356fd4c10cedda13d898.svg",
-    "static/media/discovery-death-guard-infiltration.md": "/campaign/static/media/discovery-death-guard-infiltration.c546adac818c82b4174b.md",
-    "static/media/escape-the-mournful-sepulchre.md": "/campaign/static/media/escape-the-mournful-sepulchre.1427497c515f3fe1c817.md",
+    "static/media/escape-the-mournful-sepulchre.md": "/campaign/static/media/escape-the-mournful-sepulchre.5cfca8835b18feaac448.md",
+    "static/media/discovery-death-guard-infiltration.md": "/campaign/static/media/discovery-death-guard-infiltration.193f8cbf6b6a139bcf50.md",
     "static/media/space-hulk-crucible.md": "/campaign/static/media/space-hulk-crucible.5970d47d019188efd019.md",
     "static/media/navy.svg": "/campaign/static/media/navy.4e9f6ab27e7ba366958c20c249bc3403.svg",
     "static/media/ai_orks.svg": "/campaign/static/media/ai_orks.a3164f1507a70a6f69fee2220f39a5cd.svg",
@@ -352,8 +352,8 @@
     "static/media/the-doom-fleet.md": "/campaign/static/media/the-doom-fleet.966961350b18b21278fe.md",
     "static/media/chaos_knights.svg": "/campaign/static/media/chaos_knights.ff27747a2c45ceb5205e888de3ed69d9.svg",
     "static/media/night_lords.svg": "/campaign/static/media/night_lords.8f44c58755fcaf960be2abac18145759.svg",
+    "static/media/discovery-templar-stealth-offensive.md": "/campaign/static/media/discovery-templar-stealth-offensive.a29a33129b077e5be165.md",
     "static/media/admech.svg": "/campaign/static/media/admech.ad5849421f2536bfac3a0907a3fb6e18.svg",
-    "static/media/discovery-templar-stealth-offensive.md": "/campaign/static/media/discovery-templar-stealth-offensive.e0359bbdd3a06a2f1bbb.md",
     "static/media/freebooterz.svg": "/campaign/static/media/freebooterz.e3feff643267a2dcb987d72a00d5cf94.svg",
     "static/media/slaughter-on-sublevel-185.md": "/campaign/static/media/slaughter-on-sublevel-185.eea3dab7b5df61c68598.md",
     "static/media/knights.svg": "/campaign/static/media/knights.ef2f5957cc3df0fb3d915e72a7bbb95e.svg",
@@ -456,10 +456,10 @@
     "static/media/kharghur.md": "/campaign/static/media/kharghur.e1f6d2060e5b7939cf03.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.b333e265.css.map": "/campaign/static/css/main.b333e265.css.map",
-    "main.aa1dc53e.js.map": "/campaign/static/js/main.aa1dc53e.js.map"
+    "main.1c23c15c.js.map": "/campaign/static/js/main.1c23c15c.js.map"
   },
   "entrypoints": [
     "static/css/main.b333e265.css",
-    "static/js/main.aa1dc53e.js"
+    "static/js/main.1c23c15c.js"
   ]
 }

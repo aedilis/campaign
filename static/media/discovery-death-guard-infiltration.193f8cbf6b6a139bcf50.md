@@ -31,16 +31,16 @@ The Ork luck can only hold for so long, and the rest of the Phyletic Vector fini
 
 Operative|Result
 -|-
-Myasum Clostrid|2XP -> 4XP
-Festas|3XP -> 4XP
-Gulchor|1XP -> 2XP
-Malignus|1XP -> 3XP
-Pustus|0XP -> 1XP
-Thrax|0XP -> 2XP
+Myasum Clostrid|2XP &rarr; 4XP
+Festas|3XP &rarr; 4XP
+Gulchor|1XP &rarr; 2XP
+Malignus|1XP &rarr; 3XP
+Pustus|0XP &rarr; 1XP
+Thrax|0XP &rarr; 2XP
 
 ##### Equipment: Krak Grenade, Blight Grenade
 
-##### Commence Rites: 0 -> 1
+##### Commence Rites: 0 &rarr; 1
 
 # Conclusion
 

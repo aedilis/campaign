@@ -41,14 +41,14 @@ As both champion lie on the field, burned and dying the battlefield starts to qu
 
 Operative|Result
 -|-
-Engelbert|5XP -> 6XP<br>Combat Specialist: Duellist
-Tarcuin|2XP -> 4XP
-Cuthbert|5XP -> 6XP<br>Staunch Specialist: Stalwart
+Engelbert|5XP &rarr; 6XP<br>Combat Specialist: Duellist
+Tarcuin|2XP &rarr; 4XP
+Cuthbert|5XP &rarr; 6XP<br>Staunch Specialist: Stalwart
 Jan|6XP<br>Battle scar: Sapped Strength
-Ludolf|2XP -> 3XP
-Albrecht|3XP -> 5XP
+Ludolf|2XP &rarr; 3XP
+Albrecht|3XP &rarr; 5XP
 
-##### Secure Extraction Point: 1 -> 2
+##### Secure Extraction Point: 1 &rarr; 2
 
 &nbsp;
 
@@ -56,14 +56,14 @@ Albrecht|3XP -> 5XP
 
 Operative|Result
 -|-
-Myasum Clostrid|4XP -> 6XP<br>Staunch Specialist: Invulnerable
+Myasum Clostrid|4XP &rarr; 6XP<br>Staunch Specialist: Invulnerable
 Festas|4XP
-Gulchor|2XP -> 4XP
-Malignus|3XP -> 4XP
+Gulchor|2XP &rarr; 4XP
+Malignus|3XP &rarr; 4XP
 Pustus|1XP
-Thrax|2XP -> 3XP
+Thrax|2XP &rarr; 3XP
 
-##### Commence Rites: 1 -> 2
+##### Commence Rites: 1 &rarr; 2
 
 # Conclusion
 

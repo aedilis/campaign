@@ -62,10 +62,10 @@ Malicious machinations! Striking quicker than his Templar opponent, the Icon Bea
 
 Operative|Result
 -|-
-Myasum Clostrid|0XP -> 2XP
-Festas|0XP -> 3XP
-Gulchor|0XP -> 1XP
-Malignus|0XP -> 1XP
+Myasum Clostrid|0XP &rarr; 2XP
+Festas|0XP &rarr; 3XP
+Gulchor|0XP &rarr; 1XP
+Malignus|0XP &rarr; 1XP
 Pustus|0XP
 Thrax|0XP
 
@@ -73,7 +73,7 @@ Thrax|0XP
 
 ##### Strategic Assets: Tactical Uplink; Med Bay
 
-##### Requisition Points: 0 -> 1
+##### Requisition Points: 0 &rarr; 1
 
 &nbsp;
 
@@ -81,13 +81,13 @@ Thrax|0XP
 
 Operative|Result
 -|-
-Engelbert|0XP -> 2XP
-Tarcuin|0XP -> 1XP
-Cuthbert|0XP -> 3XP
+Engelbert|0XP &rarr; 2XP
+Tarcuin|0XP &rarr; 1XP
+Cuthbert|0XP &rarr; 3XP
 Jan|0XP
 Ludolf|0XP
-Albrecht|0XP -> 2XP
+Albrecht|0XP &rarr; 2XP
 
 ##### Equipment: Purity Seal; Vengeance-class Scope; Reclusiam-blessed Bolts; Combat Blade
 
-##### Requisition Points: 0 -> 3
+##### Requisition Points: 0 &rarr; 3
