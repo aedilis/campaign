@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.b333e265.css",
-    "main.js": "/campaign/static/js/main.6792e2d0.js",
+    "main.js": "/campaign/static/js/main.aa1dc53e.js",
     "static/js/2631.75e0a79e.chunk.js": "/campaign/static/js/2631.75e0a79e.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.328d59b5.chunk.js": "/campaign/static/js/1964.328d59b5.chunk.js",
@@ -78,7 +78,7 @@
     "static/js/694.328d57c9.chunk.js": "/campaign/static/js/694.328d57c9.chunk.js",
     "static/js/726.71a3e2c1.chunk.js": "/campaign/static/js/726.71a3e2c1.chunk.js",
     "static/js/1634.b5863aeb.chunk.js": "/campaign/static/js/1634.b5863aeb.chunk.js",
-    "static/js/6705.bcbae8d8.chunk.js": "/campaign/static/js/6705.bcbae8d8.chunk.js",
+    "static/js/6705.1b0a3220.chunk.js": "/campaign/static/js/6705.1b0a3220.chunk.js",
     "static/js/1795.ccaa1a2e.chunk.js": "/campaign/static/js/1795.ccaa1a2e.chunk.js",
     "static/js/3976.b9879ffa.chunk.js": "/campaign/static/js/3976.b9879ffa.chunk.js",
     "static/js/8805.bdf03c8a.chunk.js": "/campaign/static/js/8805.bdf03c8a.chunk.js",
@@ -367,8 +367,8 @@
     "static/media/world_eaters.svg": "/campaign/static/media/world_eaters.6e7c51812d1a2e4931b57076cc70a81a.svg",
     "static/media/kroot.svg": "/campaign/static/media/kroot.cd510f4494106a589e6a312412af7e84.svg",
     "static/media/marshal-ulrich.md": "/campaign/static/media/marshal-ulrich.2060b5fda1fd0ab1ad6b.md",
+    "static/media/commissar-schoenfeld.md": "/campaign/static/media/commissar-schoenfeld.4cefccf4a12eeeff3135.md",
     "static/media/viridian-weavers.md": "/campaign/static/media/viridian-weavers.f443c924dab7a0a39480.md",
-    "static/media/commissar-schoenfeld.md": "/campaign/static/media/commissar-schoenfeld.3d57b4052304adbc9b46.md",
     "static/media/cousinry-of-the-broken-chain.md": "/campaign/static/media/cousinry-of-the-broken-chain.bb7f75cdd18e71526f0c.md",
     "static/media/merope-system.md": "/campaign/static/media/merope-system.b6a8eb4f171e9a7e9eaa.md",
     "static/media/telemane.md": "/campaign/static/media/telemane.79ca9917651b6bc8ec12.md",
@@ -456,10 +456,10 @@
     "static/media/kharghur.md": "/campaign/static/media/kharghur.e1f6d2060e5b7939cf03.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.b333e265.css.map": "/campaign/static/css/main.b333e265.css.map",
-    "main.6792e2d0.js.map": "/campaign/static/js/main.6792e2d0.js.map"
+    "main.aa1dc53e.js.map": "/campaign/static/js/main.aa1dc53e.js.map"
   },
   "entrypoints": [
     "static/css/main.b333e265.css",
-    "static/js/main.6792e2d0.js"
+    "static/js/main.aa1dc53e.js"
   ]
 }
