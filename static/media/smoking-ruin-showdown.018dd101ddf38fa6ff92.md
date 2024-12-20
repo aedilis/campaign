@@ -44,7 +44,7 @@ Operative|Result
 Engelbert|5XP -> 6XP<br>Combat Specialist: Duellist
 Tarcuin|2XP -> 4XP
 Cuthbert|5XP -> 6XP<br>Staunch Specialist: Stalwart
-Jan|6XP
+Jan|6XP<br>Battle scar: Sapped Strength
 Ludolf|2XP -> 3XP
 Albrecht|3XP -> 5XP
 
@@ -56,7 +56,7 @@ Albrecht|3XP -> 5XP
 
 Operative|Result
 -|-
-Myasum Clostrid|4XP -> 6XP
+Myasum Clostrid|4XP -> 6XP<br>Staunch Specialist: Invulnerable
 Festas|4XP
 Gulchor|2XP -> 4XP
 Malignus|3XP -> 4XP
