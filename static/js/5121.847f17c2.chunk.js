@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5121],{5121:(a,e,c)=>{a.exports=c.p+"static/media/gaasyendietha.0e5f9b88690e5073fcc9.md"}}]);

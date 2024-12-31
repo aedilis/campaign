@@ -11,7 +11,7 @@
 
 &nbsp;
 
-#### IMPERIAL CODE: SPECIMEN TUB-715-Z-1
+#### IMPERIAL CODE: SPECIMEN TYB-715-Z-1
 #### CLASSIFICATION +++The Warp Horror+++
 #### COLLOQUIAL &lt;The Floating Assimilator&gt;
 
@@ -25,4 +25,4 @@ Current whereabouts UNKNOWN, but no sighting has been seen since the commencemen
 
 &nbsp;
 
-- ![](tyranids/tyrant_of_ruin.jpg "")
+- ![](tyranids/tyrant_of_ruin.jpg "<a class='site-link' href='#/characters/the-tyrant-of-ruin'>&gt;&gt;The Tyrant of Ruin&lt;&lt;</a>, Hive Tyrant.")

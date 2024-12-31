@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[9642],{9642:(a,e,b)=>{a.exports=b.p+"static/media/bonebreakaz.ab7b2b9dcbd3c03bee4f.md"}}]);

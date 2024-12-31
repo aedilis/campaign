@@ -1,0 +1,1 @@
+Hive Tyrant appearing on Tybar.
