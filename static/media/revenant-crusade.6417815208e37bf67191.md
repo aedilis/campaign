@@ -21,4 +21,4 @@ Now in the Caldraeus Cluster, Eisenberg has donned the title Hochmeister-Regent,
 - ![](templars/eisenberg.jpg "Hochmeister-Regent Eisenberg")
 - ![](templars/reinhardt.jpg "<a class='site-link' href='#/characters/reinhardt-von-rosenherz'>&gt;&gt;Marshal Reinhardt von Rosenherz&lt;&lt;</a>")
 - ![](templars/ulrich.jpg "<a class='site-link' href='#/characters/marshal-ulrich'>&gt;&gt;Marshal Ulrich&lt;&lt;</a>")
-- ![](templars/engelbert.jpg "<a class='site-link' href='#/characters/sergeant-engelbert'>&gt;&gt;Sergeant Engelbert&lt;&lt;</a> of the <a class='site-link' href='#/faction/marshals-mules'>Marshal's Mules&lt;&lt;</a>")
+- ![](templars/engelbert.jpg "<a class='site-link' href='#/characters/sergeant-engelbert'>&gt;&gt;Sergeant Engelbert&lt;&lt;</a> of the <a class='site-link' href='#/faction/marshals-mules'>&gt;&gt;Marshal's Mules&lt;&lt;</a>")

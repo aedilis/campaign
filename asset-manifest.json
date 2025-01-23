@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.061b0456.css",
-    "main.js": "/campaign/static/js/main.73abf4fd.js",
+    "main.js": "/campaign/static/js/main.c4fe7094.js",
     "static/js/2631.75e0a79e.chunk.js": "/campaign/static/js/2631.75e0a79e.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.328d59b5.chunk.js": "/campaign/static/js/1964.328d59b5.chunk.js",
@@ -74,7 +74,7 @@
     "static/js/5509.309e0a0e.chunk.js": "/campaign/static/js/5509.309e0a0e.chunk.js",
     "static/js/1272.91455d1d.chunk.js": "/campaign/static/js/1272.91455d1d.chunk.js",
     "static/js/5621.4671fc54.chunk.js": "/campaign/static/js/5621.4671fc54.chunk.js",
-    "static/js/6711.adc9f95a.chunk.js": "/campaign/static/js/6711.adc9f95a.chunk.js",
+    "static/js/6711.5d8261c7.chunk.js": "/campaign/static/js/6711.5d8261c7.chunk.js",
     "static/js/7441.df307802.chunk.js": "/campaign/static/js/7441.df307802.chunk.js",
     "static/js/8501.430605e8.chunk.js": "/campaign/static/js/8501.430605e8.chunk.js",
     "static/js/1928.3583048a.chunk.js": "/campaign/static/js/1928.3583048a.chunk.js",
@@ -367,7 +367,7 @@
     "static/media/freebooterz.svg": "/campaign/static/media/freebooterz.e3feff643267a2dcb987d72a00d5cf94.svg",
     "static/media/slaughter-on-sublevel-185.md": "/campaign/static/media/slaughter-on-sublevel-185.eea3dab7b5df61c68598.md",
     "static/media/knights.svg": "/campaign/static/media/knights.ef2f5957cc3df0fb3d915e72a7bbb95e.svg",
-    "static/media/revenant-crusade.md": "/campaign/static/media/revenant-crusade.5dc4bab38b22153beb22.md",
+    "static/media/revenant-crusade.md": "/campaign/static/media/revenant-crusade.6417815208e37bf67191.md",
     "static/media/hegesthes-camp-raid.md": "/campaign/static/media/hegesthes-camp-raid.cf98d270e5114e0b53b2.md",
     "static/media/fleet-of-the-amber-cloud.md": "/campaign/static/media/fleet-of-the-amber-cloud.1735c9b52ba1557302f1.md",
     "static/media/otto-umbranox.md": "/campaign/static/media/otto-umbranox.c3ebb51d2beee025e01e.md",
@@ -469,10 +469,10 @@
     "static/media/the-tyrant-of-ruin.md": "/campaign/static/media/the-tyrant-of-ruin.9c84f96f14c3743767c2.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.061b0456.css.map": "/campaign/static/css/main.061b0456.css.map",
-    "main.73abf4fd.js.map": "/campaign/static/js/main.73abf4fd.js.map"
+    "main.c4fe7094.js.map": "/campaign/static/js/main.c4fe7094.js.map"
   },
   "entrypoints": [
     "static/css/main.061b0456.css",
-    "static/js/main.73abf4fd.js"
+    "static/js/main.c4fe7094.js"
   ]
 }
