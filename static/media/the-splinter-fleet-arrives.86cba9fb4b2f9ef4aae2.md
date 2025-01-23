@@ -6,7 +6,7 @@
 
 We were already in our trukks, so we kicked da grots off da back ta start scavengin' fer anyfin' useful while da rest of us zoomed forward chantin' *'Ere we go! 'Ere we go!* Da Deffskull warboss's ladz seemed ta get some clever idea about traps or loot or Mork-knows-what, so dey unloaded in some ruins and started messin' wiv a few bitz and seemed well pleased by whatever dey were up ta. Zoggin' Deffskulls. Krogskull Gobrekka himself had hitched a ride in a Goff trukk wiv some Flash Gitz, who saw a nice dakka platform dead in da middle of da action dat dey jumped out ta and opened fire on some beefy-lookin' bugz dat were out in da open. Missed most of dere shots by a mile, but hit a few pretty much by accident given how good dere position was, and popped two of 'em.
 
-By den, da bugeyez were ready ta let us have it back. Da big boss bug fired some weird venom kannon at da Flash Gitz and krumped one, and da biggest meanest bug on da field fired at dem wiv some gribbly weird dakka and dropped two more. Da bug gitz dose Flash Gitz had been shootin' shot da Deffskulls in da wreckage, which dropped a few of 'em and covered da rest in some weird stikky mukk.
+By den, da bugeyez were ready ta let us have it back. [Da big boss bug](#/characters/the-tyrant-of-ruin) fired some weird venom kannon at da Flash Gitz and krumped one, and da biggest meanest bug on da field fired at dem wiv some gribbly weird dakka and dropped two more. Da bug gitz dose Flash Gitz had been shootin' shot da Deffskulls in da wreckage, which dropped a few of 'em and covered da rest in some weird stikky mukk.
 
 - ![](15_the_splinter_fleet_arrives/01-01.jpg "")
 - ![](15_the_splinter_fleet_arrives/01-02.jpg "")
@@ -32,17 +32,19 @@ And good fing we did too, or we would have missed da show! Boss Gobrekka's pet D
 
 ![separator](tyranids/tyranids.svg "")
 
-*Krogskull Gobrekka was in a foul mood. His underbosses had gotten to show off and krump two of the biggest bugeyez on the battlefield, while he was stuck swatting bin gits with Squig Run's most overqualified swatta. He'd have to think of something even more impressive for the ladz, and quick. Not even a dense cloud of foul-smelling engine smoke and the obnoxious motor roar of his approaching warbikers lifted his spirits.*
+*Krogskull Gobrekka was in a foul mood. His underbosses had gotten to show off and krump two of the biggest bugeyes on the battlefield, while he was stuck swatting bin gits with Squig Run's most overqualified swatta. He'd have to think of something even more impressive for the lads, and quick. Not even a dense cloud of foul-smelling engine smoke and the obnoxious motor roar of his approaching warbikers lifted his spirits.*
 
-*"Nice of ya ta show up," he snarled at them as he splattered another of the little bugs.*
+*"Nice of ya ta show up," he snarled at them as he whacked at another of the little bugs with his massive choppa.*
 
-*"No problem boss!" beamed the biker nob cheerfully as he snapped his bug-splattered goggles to his forehead. "Just passed a couple of lanky looking jumpy bugeyez leggin' it for da treeline on our way 'ere. You wanna hop on da back and catch up?"*
+*"No problem, boss!" beamed the biker nob cheerfully as he snapped his bug-spattered goggles to his forehead. "Just passed a couple of lanky-lookin' jumpy bugeyez leggin' it for da treeline on our way 'ere. You wanna hop on da back an' catch up?"*
 
-*"Nah," said Krogskull distractedly as he smashed the final bug with a mighty heave of his massive choppa. "Ugzog's gitz'll probably deal wiv 'em. I got a better idea."*
+*"Nah," said Krogskull distractedly as he smashed the final bug with an overhand swing. "Ugzog's gitz'll probably deal wiv 'em. I got a better idea."*
 
-*The biker nob blinked slowly. "Better dan krumpin' da big bugeyez, boss?" He asked, a little dejectedly.*
+*The biker nob blinked at him slowly. "Better dan krumpin' dose bugeyez, boss?" he asked, a little dejectedly.*
 
-*"Hurry and round up every mek ya can find. Any weirdboyz ya see along da way too, while yer at it." Krogskull heaved his choppa out of the ground and back over his shoulder as he squinted ahead to the wreckage. "Dese bugeyez came outta one of dem fiddly wobbly humie doors. We'z gonna figure out how ta open it from our end."*
+*"Hurry an' round up every mek ya can find. Any weirdboyz ya see along da way too, while yer at it." Krogskull heaved his choppa out of the ground and back over his shoulder as he squinted ahead to the wreckage. "Dese bugeyez came outta one of dem fiddly humie portalz."*
+
+*The biker gave him a nonplussed look. Krogskull leered. "So we'z gonna figure out how ta open it from our end."*
 
 ![separator](orks/orks.svg "")
 

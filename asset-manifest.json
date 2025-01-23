@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.061b0456.css",
-    "main.js": "/campaign/static/js/main.655c1cc9.js",
+    "main.js": "/campaign/static/js/main.73abf4fd.js",
     "static/js/2631.75e0a79e.chunk.js": "/campaign/static/js/2631.75e0a79e.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.328d59b5.chunk.js": "/campaign/static/js/1964.328d59b5.chunk.js",
@@ -53,7 +53,7 @@
     "static/js/5961.aec4fe1f.chunk.js": "/campaign/static/js/5961.aec4fe1f.chunk.js",
     "static/js/3015.ccbfe06d.chunk.js": "/campaign/static/js/3015.ccbfe06d.chunk.js",
     "static/js/6043.5132f73d.chunk.js": "/campaign/static/js/6043.5132f73d.chunk.js",
-    "static/js/5161.8be27950.chunk.js": "/campaign/static/js/5161.8be27950.chunk.js",
+    "static/js/5161.f27fba2a.chunk.js": "/campaign/static/js/5161.f27fba2a.chunk.js",
     "static/js/8748.3131a00d.chunk.js": "/campaign/static/js/8748.3131a00d.chunk.js",
     "static/js/4503.588787d6.chunk.js": "/campaign/static/js/4503.588787d6.chunk.js",
     "static/js/267.78795369.chunk.js": "/campaign/static/js/267.78795369.chunk.js",
@@ -288,6 +288,7 @@
     "static/media/exaction_squad.svg": "/campaign/static/media/exaction_squad.4a48b479b50161fd38ad.svg",
     "static/media/angels_of_death.svg": "/campaign/static/media/angels_of_death.bd61a01628fc383615e426cde324bd70.svg",
     "static/media/imperial_navy_breachers.svg": "/campaign/static/media/imperial_navy_breachers.841f1284d60768bffa9d.svg",
+    "static/media/ratlings.svg": "/campaign/static/media/ratlings.514a4d1c23010f3e6499.svg",
     "static/media/kommandos.svg": "/campaign/static/media/kommandos.f117868fbdb879552fc83e722fd3ef83.svg",
     "static/media/vespids.svg": "/campaign/static/media/vespids.beb0718ce4486dbf73973d2c4bf813b9.svg",
     "static/media/aquilons.svg": "/campaign/static/media/aquilons.58824eb4a37643c5c841d51a75eda766.svg",
@@ -298,6 +299,7 @@
     "static/media/hegesthes.jpeg": "/campaign/static/media/hegesthes.ad9e9b15647063bfb055.jpeg",
     "static/media/blooded.svg": "/campaign/static/media/blooded.9730659c741384fde6b5.svg",
     "static/media/belgatha.jpeg": "/campaign/static/media/belgatha.2dc1ca945e53360ea547.jpeg",
+    "static/media/wrecka_krew.svg": "/campaign/static/media/wrecka_krew.68326d55f17a71dbb015.svg",
     "static/media/gellerpox_infected.svg": "/campaign/static/media/gellerpox_infected.127e21b5ac2302d1080b.svg",
     "static/media/nemesis_claw.svg": "/campaign/static/media/nemesis_claw.7ab765f0dd2b5c670003.svg",
     "static/media/telemane.jpeg": "/campaign/static/media/telemane.79b3a604227ea11afe57.jpeg",
@@ -341,7 +343,7 @@
     "static/media/hegesthes-outpost-kappa-12.md": "/campaign/static/media/hegesthes-outpost-kappa-12.13ea5bfad1a995c26bf5.md",
     "static/media/battle-of-hive-aspidopolis.md": "/campaign/static/media/battle-of-hive-aspidopolis.478e436b0e76e6ed6c1c.md",
     "static/media/ashes-of-faith.md": "/campaign/static/media/ashes-of-faith.e9ef259cc3901c2feccf.md",
-    "static/media/the-splinter-fleet-arrives.md": "/campaign/static/media/the-splinter-fleet-arrives.0b223244d948ba528a62.md",
+    "static/media/the-splinter-fleet-arrives.md": "/campaign/static/media/the-splinter-fleet-arrives.86cba9fb4b2f9ef4aae2.md",
     "static/media/tyranids.svg": "/campaign/static/media/tyranids.3c4d69b91138a11feea1b2b9ffa84f80.svg",
     "static/media/smoking-ruin-showdown.md": "/campaign/static/media/smoking-ruin-showdown.ec6344efe868942be06f.md",
     "static/media/daybreak-protectorate.md": "/campaign/static/media/daybreak-protectorate.609e53969e6856e45e6e.md",
@@ -467,10 +469,10 @@
     "static/media/the-tyrant-of-ruin.md": "/campaign/static/media/the-tyrant-of-ruin.9c84f96f14c3743767c2.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.061b0456.css.map": "/campaign/static/css/main.061b0456.css.map",
-    "main.655c1cc9.js.map": "/campaign/static/js/main.655c1cc9.js.map"
+    "main.73abf4fd.js.map": "/campaign/static/js/main.73abf4fd.js.map"
   },
   "entrypoints": [
     "static/css/main.061b0456.css",
-    "static/js/main.655c1cc9.js"
+    "static/js/main.73abf4fd.js"
   ]
 }
