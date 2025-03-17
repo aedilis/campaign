@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.8b47ecd5.css",
-    "main.js": "/campaign/static/js/main.193f76d3.js",
+    "main.js": "/campaign/static/js/main.49038665.js",
     "static/js/2631.75e0a79e.chunk.js": "/campaign/static/js/2631.75e0a79e.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.328d59b5.chunk.js": "/campaign/static/js/1964.328d59b5.chunk.js",
@@ -94,7 +94,6 @@
     "static/js/4080.034516cd.chunk.js": "/campaign/static/js/4080.034516cd.chunk.js",
     "static/js/561.fbd130e4.chunk.js": "/campaign/static/js/561.fbd130e4.chunk.js",
     "static/js/1763.8d0e84aa.chunk.js": "/campaign/static/js/1763.8d0e84aa.chunk.js",
-    "static/js/1639.baa1953a.chunk.js": "/campaign/static/js/1639.baa1953a.chunk.js",
     "static/js/3162.ed61b923.chunk.js": "/campaign/static/js/3162.ed61b923.chunk.js",
     "static/js/3231.300b8a74.chunk.js": "/campaign/static/js/3231.300b8a74.chunk.js",
     "static/js/3009.a62e1320.chunk.js": "/campaign/static/js/3009.a62e1320.chunk.js",
@@ -102,6 +101,7 @@
     "static/js/6344.bb9d11b8.chunk.js": "/campaign/static/js/6344.bb9d11b8.chunk.js",
     "static/js/2066.1aec0e74.chunk.js": "/campaign/static/js/2066.1aec0e74.chunk.js",
     "static/js/2671.2d7717b2.chunk.js": "/campaign/static/js/2671.2d7717b2.chunk.js",
+    "static/js/568.84559808.chunk.js": "/campaign/static/js/568.84559808.chunk.js",
     "static/js/9368.80f3168c.chunk.js": "/campaign/static/js/9368.80f3168c.chunk.js",
     "static/js/8109.cf9a56ae.chunk.js": "/campaign/static/js/8109.cf9a56ae.chunk.js",
     "static/js/5136.86dfedc8.chunk.js": "/campaign/static/js/5136.86dfedc8.chunk.js",
@@ -462,7 +462,7 @@
     "static/media/acheros.md": "/campaign/static/media/acheros.fe8b486cb47dbce385c6.md",
     "static/media/gorgob-gitstompa.md": "/campaign/static/media/gorgob-gitstompa.860a89e218ba0076ac10.md",
     "static/media/kuvala.md": "/campaign/static/media/kuvala.bffe584e584e16b57c62.md",
-    "static/media/lord-vargouille.md": "/campaign/static/media/lord-vargouille.8276efe947e42d1ec337.md",
+    "static/media/reshig-vargouille.md": "/campaign/static/media/reshig-vargouille.8276efe947e42d1ec337.md",
     "static/media/gandymere-storm-hawks.md": "/campaign/static/media/gandymere-storm-hawks.be2869d23b41638cc5ef.md",
     "static/media/urkrod-blakkjaw.md": "/campaign/static/media/urkrod-blakkjaw.02a344cf4d30b169b987.md",
     "static/media/yovai.svg": "/campaign/static/media/yovai.4b2aa03214b6d6e63247.svg",
@@ -483,10 +483,10 @@
     "static/media/the-tyrant-of-ruin.md": "/campaign/static/media/the-tyrant-of-ruin.9c84f96f14c3743767c2.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.8b47ecd5.css.map": "/campaign/static/css/main.8b47ecd5.css.map",
-    "main.193f76d3.js.map": "/campaign/static/js/main.193f76d3.js.map"
+    "main.49038665.js.map": "/campaign/static/js/main.49038665.js.map"
   },
   "entrypoints": [
     "static/css/main.8b47ecd5.css",
-    "static/js/main.193f76d3.js"
+    "static/js/main.49038665.js"
   ]
 }

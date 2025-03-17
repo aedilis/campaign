@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1639],{1639:(e,a,c)=>{e.exports=c.p+"static/media/lord-vargouille.8276efe947e42d1ec337.md"}}]);
