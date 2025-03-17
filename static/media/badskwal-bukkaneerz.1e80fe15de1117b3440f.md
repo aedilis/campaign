@@ -1,0 +1,7 @@
+<p className="paragraphs ork-speech end-of-section">Da Badskwal Bukkaneerz iz a krew uv proppa freebootaz from da big Freeboota Waaagh! da <a href="#/factions/bilge-squigz" className="site-link ork-link">Bilge Squigz</a>. Dey'z led by <a href="#/characters/gobsmakk-grogbreff" className="site-link ork-link">Kaptin Grogbreff</a> and iz kurrently skrappin' on da <a href="#/maps/eryx" className="site-link ork-link">humie faktory planet</a> against sum humies and sum spikey humies who iz also fightin' each uvver. Proppa!</p>
+
+<h3 className="ork-heading">Da Bukkaneerz</h3>
+
+- ![](orks/grogbreff.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/gobsmakk-grogbreff'>&gt;&gt;Kaptin Gobsmakk Grogbreff&lt;&lt;</a>. Da boss uv da krew dat united da ladz, at least in dis part uv da planet.</span>")
+- ![](orks/squigbita.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/morgrod-squigbita'>&gt;&gt;Boss Morgrod Squigbita&lt;&lt;</a>. Kaptin Grogbreff's furst mate back when dey had a ship.</span>")
+- ![](orks/gitstompa.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/gorgob-gitstompa'>&gt;&gt;Boss Gorgob Gitstompa&lt;&lt;</a> wiv pet squig Nibbla. Fought da spikey humies by hisself fer a bit but dey kept pullin' sneakies so joined up wiv da Kaptin ta have better skrapz.</span>")

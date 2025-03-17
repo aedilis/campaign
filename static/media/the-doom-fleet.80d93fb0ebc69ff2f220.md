@@ -18,13 +18,13 @@ Zaldrotha turned his focus to a [months-long secret campaign](#/events/ashes-of-
 
 # Invasion of Hegesthes System
 
-Following their initial stunning victory in Belgatha, the Doom Fleet pressed its advantage and moved to claim the valuable industrial world of Eryx in the Hegesthes System. However, this would prove more complicated; the initial war party was greeted with the blistering firepower of Imperial Knights and was forced to [retreat back to their landing grounds](#/events/knights-vs-chaos). After the failed commander was removed, the newly appointed [Lord Vargouille](#/characters/lord-vargouille) sought to find territory beyond the xenos line before turning his attention back to the Imperials. This saw better results, but neither Chaos nor Ork has been able to maintain a convincing upper hand over the other.
+Following their initial stunning victory in Belgatha, the Doom Fleet pressed its advantage and moved to claim the valuable industrial world of Eryx in the Hegesthes System. However, this would prove more complicated; the initial war party was greeted with the blistering firepower of Imperial Knights and was forced to [retreat back to their landing grounds](#/events/knights-vs-chaos). After the failed commander was removed, the newly appointed [Lord Vargouille](#/characters/reshig-vargouille) sought to find territory beyond the xenos line before turning his attention back to the Imperials. This saw better results, but neither Chaos nor Ork has been able to maintain a convincing upper hand over the other.
 
 # Gallery
 
 - ![](chaos/last_breath.jpg "<a class='site-link' href='#/characters/last-breath'>&gt;&gt;<i>The Last Breath</i>&lt;&lt;</a>, flagship of the Doom Fleet and herald of the invasion.")
 - ![](chaos/zaldrotha_voidrender.jpg "<a class='site-link' href='#/characters/zaldrotha-voidrender'>&gt;&gt;Admiral Zaldrotha Voidrender&lt;&lt;</a>, commander of the Doom Fleet coordinating the Night Lords' multi-front invasion of Caldraeus.")
-- ![](chaos/lord_vargouille.jpg "<a class='site-link' href='#/characters/lord-vargouille'>&gt;&gt;Lord Vargouille&lt;&lt;</a>, commander of the ground forces on the industrial world of Eryx. Contending with both Imperial and Ork forces.")
+- ![](chaos/lord_vargouille.jpg "<a class='site-link' href='#/characters/reshig-vargouille'>&gt;&gt;Lord Vargouille&lt;&lt;</a>, commander of the ground forces on the industrial world of Eryx. Contending with both Imperial and Ork forces.")
 - ![](chaos/malithor.jpg "<a class='site-link' href='#/characters/lord-malithor'>&gt;&gt;Lord Malithor&lt;&lt;</a>, leader of the Naxos invasion who cleared the station with a virus bomb and claimed the infrastructure for the fleet.")
 
 # Fallen

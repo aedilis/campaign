@@ -1,12 +1,12 @@
 > QUOTATION
 >
-> Ain't seen many 'umies in dis desert fer a bit and woz startin' ta get bored. Squabblin' wiv uvver orks iz fun an' all, but seems a waste ta be on da 'umie planet an' not fite any 'umies. Den some [weirdboy](#/characters/wortskab) pops into da camp babblin' about dis big group of 'umies 'Furd Krumpinee' wots been winnin' all da fites lately somewhereelse. Seemed like a larf so I asked which way and rounded up da ladz.
+> Ain't seen many 'umies in dis desert fer a bit and woz startin' ta get bored. Squabblin' wiv uvver orks iz fun an' all, but seems a waste ta be on da 'umie planet an' not fite any 'umies. Den some [weirdboy](#/characters/wortskab) pops into da camp babblin' about dis big group of 'umies 'Furd Krumpinee' wots been winnin' all da fites lately somewhere else. Seemed like a larf so I asked which way and rounded up da ladz.
 >
 > [Warboss Urlakk Loudgob](#/characters/urlakk-loudgob)
 
 > QUOTATION
 >
-> Large and growing band of xenos appears inbound for the [317th's] (#/factions/hegesthean-dusters) position. All Companies currently engaged in holding existing territory. Intercept with highest mobility force available before this new enemy destabilizes our recent gains.
+> Large and growing band of xenos appears inbound for the [317th's](#/factions/hegesthean-dusters) position. All Companies currently engaged in holding existing territory. Intercept with highest mobility force available before this new enemy destabilizes our recent gains.
 >
 > Imperial Vox Relay, 365 024.M42
 

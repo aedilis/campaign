@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5774],{5774:(a,e,c)=>{a.exports=c.p+"static/media/badskwal-bukkaneerz.31d6cfe0d16ae931b73c.md"}}]);

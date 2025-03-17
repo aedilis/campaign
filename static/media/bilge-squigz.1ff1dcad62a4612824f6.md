@@ -57,11 +57,12 @@
 <h3 className="ork-heading">Da Bosses</h3>
 
 - ![hidden](orks/skraptoof.jpeg "<span class='ork-speech'>Kaptin Ghazbag Skraptoof with attack squig Skudul-Butt. Not pictured is pet vulture Hornswoggul.</span>")
-- ![hidden](orks/grogC.jpg "<span class='ork-speech'>Kaptin Naffgob Grogbreff.</span>")
+- ![](orks/grogbreff.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/gobsmakk-grogbreff'>&gt;&gt;Kaptin Gobsmakk Grogbreff&lt;&lt;</a>, leader of <a class='site-link ork-link' href='#/factions/badskwal-bukkaneerz'>&gt;&gt;da Badskwal Bukkaneerz&lt;&lt;</a>.</span>")
 - ![hidden](orks/gitC.jpg "<span class='ork-speech'>Kaptin Grimbad/Grimzag Skumdreg.</span>")
 - ![hidden](orks/westC.jpg "<span class='ork-speech'>Kaptin Badgit/Skofflaw Skargob/Skrapsidez.</span>")
 - ![hidden](orks/badrukk.png "<span class='ork-speech'>Kaptin Rotgut Toofrippa, de facto leader of the Bilge Squigz Flash Gitz: Skumdreg and da Bragga Boyz, Sukkapunch and da Cheap Shotz, Ardtakk and da Skurvee Krew, Badlukk and da Low-Lifes. A freebooter's freebooter.</span>")
-- ![](orks/gitstompa.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/gorgob-gitstompa'>&gt;&gt;Warboss Gorgob Gitstompa&lt;&lt;</a> with pet squig Nibbla. Currently fighting Chaos on Eryx, enjoying his land war too much to spend time thinking about space faring.</span>")
+- ![](orks/squigbita.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/morgrod-squigbita'>&gt;&gt;Morgrod Squigbita&lt;&lt;</a>, first mate of da Badskwal Bukkaneerz.</span>")
+- ![](orks/gitstompa.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/gorgob-gitstompa'>&gt;&gt;Warboss Gorgob Gitstompa&lt;&lt;</a> with pet squig Nibbla. Fought Chaos on Eryx before joining up with the Badskwal Bukkaneerz in search of greater battles.</span>")
 - ![](orks/loudgob.jpg "<span class='ork-speech'><a class='site-link ork-link' href='#/characters/urlakk-loudgob'>&gt;&gt;Warboss Urlakk Loudgob&lt;&lt;</a>. Leading a large and growing posse of boyz drawn in to the recent territorial gains made by the Imperial regiments of Hegesthes.</span>")
 - ![hidden](orks/megaC.jpeg "<span class='ork-speech'>Warboss Gargash Skullkrusha.</span>")
 - ![hidden](orks/ambotC.jpg "<span class='ork-speech'>Warboss Ghurmakk Spleenrippa.</span>")
