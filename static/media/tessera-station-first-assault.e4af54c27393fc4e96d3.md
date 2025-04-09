@@ -54,7 +54,7 @@ Despite enduring heavy losses and damage, the Llyrian Drakes blooded Da Badskwal
 
 *Speaking of shooty, there was Sukkapunch, the leader of the Cheap Shotz flash gitz, rolling up to him in his trukk from the other side of the ruins.*
 
-*"Dat tank looks pretty shooty, boss," the flash git offered, as if concurring with Mogrod's thoughts. "I fink it might be betta to come back fer anuvver go wiv a bit more dakka."*
+*"Dat tank looks pretty shooty, boss," the flash git offered, as if concurring with Morgrod's thoughts. "I fink it might be betta to come back fer anuvver go wiv a bit more dakka."*
 
 *Morgrod considered this. He did hate to leave a fight, and that tank looked very skraggable, but he didn't want to be here if it rounded the corner and couldn't find any decent targets except himself. "Where's yer squad?" he asked Sukkapunch.*
 
