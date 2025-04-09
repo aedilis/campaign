@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5621],{75621:(a,e,p)=>{a.exports=p.p+"static/media/plaguefester-warband.753b6fb25d98bf4b4798.md"}}]);

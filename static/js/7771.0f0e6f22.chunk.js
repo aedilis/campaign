@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[7771],{7771:(a,s,e)=>{a.exports=e.p+"static/media/castellan-rhys.976d8a1704b4dfd0a82d.md"}}]);

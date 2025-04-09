@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[9970],{49970:(a,e,c)=>{a.exports=c.p+"static/media/caldraeus.0fc9d294149e81128e90.md"}}]);

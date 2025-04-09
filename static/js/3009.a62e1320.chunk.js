@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[3009],{5390:(a,p,s)=>{a.exports=s.p+"static/media/mophilus-prion.bc0a92b2f1950279ff6b.md"}}]);

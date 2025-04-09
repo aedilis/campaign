@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[6058],{6058:(e,a,c)=>{e.exports=c.p+"static/media/defense-of-telemane.cfcbb0e8e5b6ce4bae27.md"}}]);

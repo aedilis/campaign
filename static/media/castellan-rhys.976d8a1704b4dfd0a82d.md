@@ -1,0 +1,1 @@
+Commander of the [Llyrian "Drakes" Fifth Regiment](#/factions/llyrian-drakes), defending Imperial forces on [Eryx](#/maps/eryx) from a two-front war.

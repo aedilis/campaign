@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5516],{55516:(e,a,p)=>{e.exports=p.p+"static/media/tengara.8ed470efa394e41de734.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1497],{11497:(a,e,c)=>{a.exports=c.p+"static/media/grimzag-skumdreg.92022a29e822c69c8615.md"}}]);

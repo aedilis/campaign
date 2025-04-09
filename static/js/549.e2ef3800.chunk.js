@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[549],{50549:(e,a,c)=>{e.exports=c.p+"static/media/tybar-secundus.10becdfeca41314e634f.md"}}]);

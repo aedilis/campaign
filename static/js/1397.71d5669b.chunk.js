@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1397],{61397:(e,a,c)=>{e.exports=c.p+"static/media/morgrod-squigbita.ebf3fb10c6077c92bbee.md"}}]);

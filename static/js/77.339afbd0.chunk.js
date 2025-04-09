@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[77],{20077:(e,a,s)=>{e.exports=s.p+"static/media/gandymere-storm-hawks.be2869d23b41638cc5ef.md"}}]);

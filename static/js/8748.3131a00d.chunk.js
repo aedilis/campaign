@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8748],{8748:(a,c,e)=>{a.exports=e.p+"static/media/beast-krumpaz.c2dcf26053602474b09c.md"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[926],{926:(a,s,e)=>{a.exports=e.p+"static/media/marshals-mules.9bc96207278e9aa55b5b.md"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8109],{8109:(e,c,a)=>{e.exports=a.p+"static/media/sergeant-engelbert.ce14faec9cc985d1c3cc.md"}}]);

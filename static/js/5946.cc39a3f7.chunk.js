@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5946],{5946:(a,c,e)=>{a.exports=e.p+"static/media/belgatha-system.61cbe2d2b3a5c2bccaa0.md"}}]);

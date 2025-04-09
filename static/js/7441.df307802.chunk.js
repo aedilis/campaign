@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[7441],{7441:(a,e,s)=>{a.exports=s.p+"static/media/squigbuzza-skallywagz.1e867f1e42ed591b0472.md"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8635],{8635:(a,c,e)=>{a.exports=e.p+"static/media/naxos.992cd055ff7fac8fe11d.md"}}]);

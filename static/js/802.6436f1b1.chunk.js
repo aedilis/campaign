@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[802],{10802:(a,c,e)=>{a.exports=e.p+"static/media/urkrod-blakkjaw.02a344cf4d30b169b987.md"}}]);

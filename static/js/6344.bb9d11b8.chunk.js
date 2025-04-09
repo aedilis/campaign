@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[6344],{6344:(e,a,s)=>{e.exports=s.p+"static/media/myasum-clostrid.0657e5494b922e4f063e.md"}}]);

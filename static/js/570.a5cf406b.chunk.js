@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[570],{50570:(a,e,s)=>{a.exports=s.p+"static/media/kathikos.3ce565f486160d031568.md"}}]);

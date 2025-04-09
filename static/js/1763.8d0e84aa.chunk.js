@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1763],{1763:(a,c,d)=>{a.exports=d.p+"static/media/lord-malithor.2dfb7bc4da37d6ad34ac.md"}}]);

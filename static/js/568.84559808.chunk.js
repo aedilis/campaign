@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[568],{568:(e,a,s)=>{e.exports=s.p+"static/media/reshig-vargouille.8276efe947e42d1ec337.md"}}]);

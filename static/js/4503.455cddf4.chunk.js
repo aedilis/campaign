@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4503],{54503:(a,c,e)=>{a.exports=e.p+"static/media/bilge-squigz.505e6e1c155c95dacac9.md"}}]);

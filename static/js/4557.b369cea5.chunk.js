@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4557],{4557:(a,e,s)=>{a.exports=s.p+"static/media/krakk-shotz.ffae7dd9ded7a01a1db8.md"}}]);

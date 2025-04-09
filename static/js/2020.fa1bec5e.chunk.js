@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[2020],{2020:(e,a,c)=>{e.exports=c.p+"static/media/escape-the-mournful-sepulchre.5cfca8835b18feaac448.md"}}]);

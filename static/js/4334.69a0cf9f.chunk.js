@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4334],{4334:(e,a,s)=>{e.exports=s.p+"static/media/naxos-besieged.56797b525fb02bd45670.md"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[3829],{3829:(a,e,s)=>{a.exports=s.p+"static/media/montrass.bf82c586de7ae49ac83f.md"}}]);

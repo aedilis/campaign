@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8452],{8452:(e,a,s)=>{e.exports=s.p+"static/media/serres-system.5a2822babe4e16c606a6.md"}}]);

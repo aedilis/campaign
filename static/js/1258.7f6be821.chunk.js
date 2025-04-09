@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1258],{51258:(e,a,c)=>{e.exports=c.p+"static/media/merope.ed93efbd6689f6d31bcc.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[3976],{43976:(a,e,p)=>{a.exports=p.p+"static/media/gorgob-gitstompa.860a89e218ba0076ac10.md"}}]);

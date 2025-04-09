@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8019],{8019:(a,c,e)=>{a.exports=e.p+"static/media/gobsmakk-grogbreff.885460963b0a1b3cccf6.md"}}]);

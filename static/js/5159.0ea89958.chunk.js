@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5159],{5159:(e,a,c)=>{e.exports=c.p+"static/media/telemane.79ca9917651b6bc8ec12.md"}}]);

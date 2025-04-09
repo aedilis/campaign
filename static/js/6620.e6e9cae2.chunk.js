@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[6620],{6620:(c,e,a)=>{c.exports=a.p+"static/media/cousinry-of-the-broken-chain.bb7f75cdd18e71526f0c.md"}}]);

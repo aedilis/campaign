@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8805],{48805:(a,e,c)=>{a.exports=c.p+"static/media/kharghur.e1f6d2060e5b7939cf03.md"}}]);

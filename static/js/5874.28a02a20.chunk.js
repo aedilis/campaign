@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5874],{5874:(a,e,c)=>{a.exports=c.p+"static/media/kuvala.bffe584e584e16b57c62.md"}}]);
