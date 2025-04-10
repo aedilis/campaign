@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5561],{45561:(a,c,e)=>{a.exports=e.p+"static/media/broot-skwad.f77ca6d83b951bae3cdd.md"}}]);
