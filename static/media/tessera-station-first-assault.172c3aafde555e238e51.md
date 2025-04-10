@@ -87,10 +87,10 @@ Despite enduring heavy losses and damage, the Llyrian Drakes blooded Da Badskwal
 
 Unit|Result
 -|-
-Castellan Rhys|0XP &rarr; 7XP<br>Battle Honor: Stealthy
+Castellan Rhys|0XP &rarr; 7XP<br>Battle Trait: Booming Voice
 Alesis Telecarus|0XP &rarr; 2XP<br>Battle Scar: Crippling Damage
 Commissar Schoenfeld|6XP &rarr; 10XP
-Taurox Prime|Battle Scar: Battle Weary
+Taurox Prime|0XP &rarr; 1XP<br>Battle Scar: Battle Weary
 Dragon's Fire|0XP &rarr; 5XP (Marked for Greatness)
 
 #### [Badskwal Bukkaneerz](#/factions/badskwal-bukkaneerz)
@@ -105,8 +105,8 @@ Dragon's Fire|0XP &rarr; 5XP (Marked for Greatness)
 
 Operative|Result
 -|-
-Kaptin Grogbreff|0XP &rarr; 10XP<br>Battle Honor: Weapon Modification (+1 S -1 AP)
+Kaptin Grogbreff|0XP &rarr; 10XP<br>Weapon Mod: Power Klaw (+1 S -1 AP)
 Morgrod Squigbita|0XP &rarr; 5XP (Marked for Greatness)
 Morgrod's Boyz|0XP &rarr; 2XP
-Gretchin|Battle Scar: Mark of Shame
-Warbikers|Battle Scar: Mark of Shame
+Gretchin|0XP &rarr; 1XP<br>Battle Scar: Mark of Shame
+Warbikers|0XP &rarr; 1XP<br>Battle Scar: Mark of Shame

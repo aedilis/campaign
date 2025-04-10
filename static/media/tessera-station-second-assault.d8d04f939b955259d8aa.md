@@ -77,7 +77,12 @@
 Unit|Result
 -|-
 Castellan Rhys|7XP &rarr; 8XP<br>Battle Scar: Mark of Shame
-Dragon's Fire|5XP &rarr; 6XP<br>Battle Honor: ?
+Squad Primus|1XP &rarr; 3XP
+Squad Secundus|1XP &rarr; 3XP
+Steel Lance|1XP &rarr; 6XP (Marked for Greatness)<br>Battle Trait: Guerillas
+Firebrand|1XP &rarr; 3XP
+Strike Team Epsilon|1XP &rarr; 3XP
+Dragon's Fire|5XP &rarr; 6XP<br>Weapon Mod: Plasma Cannon (+1 BS +1 A)
 
 #### [Terror Crusade](#/factions/terror-crusade)
 ###

@@ -1,0 +1,1 @@
+Astra Militarum regiment stationed on Eryx.
