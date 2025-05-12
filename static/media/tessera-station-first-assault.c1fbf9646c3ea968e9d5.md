@@ -31,7 +31,7 @@ Rhys and Schoenfeld still hold the line but are being increasingly boxed in by t
 
 - ![](16_tessera_station/05a-01.jpg "")
 
-Grogbreff and Squigbita see the battle tank has come within striking distance and both charge to claim the prize of killing the biggest killer the enemy have. Massed attacks damage it heavily but are unable to destroy the tank thanks to Telecarus' field repairs. The last Cheap Shot tries to gun down Squad Primus but the dakka pings off the ruined cover and leaves the squad intact. The combat to the North continues as the last Bullgrn crushes another biker beneath his maul but is hurt by the twin attack. Grogbreff's second trukk, alone again, shoots at Squad Secundus unsuccessfully and guns its engine to run them over, but the uneven terrain sputters under the wheels stopping it from getting the speed to do any real damage.
+Grogbreff and Squigbita see the battle tank has come within striking distance and both charge to claim the prize of killing the biggest killer the enemy have. Massed attacks damage it heavily but are unable to destroy the tank thanks to Telecarus' field repairs. The last Cheap Shot tries to gun down Squad Primus but the dakka pings off the ruined cover and leaves the squad intact. The combat to the North continues as the last Bullgryn crushes another biker beneath his maul but is hurt by the twin attack. Grogbreff's second trukk, alone again, shoots at Squad Secundus unsuccessfully and guns its engine to run them over, but the uneven terrain sputters under the wheels stopping it from getting the speed to do any real damage.
 
 The final Bullgryn pulls back out of the melee, and Squad Primus and the two Officers leave the last Flash Git to defend the center from the approaching Warbosses. *Dragon's Fire* falls back, allowing Rhys to give fire orders that result in Squigbita's boyz being killed except for the nob, and Grogbreff's Krew to be thinned out to one last nob. Seeing the Warbosses exposed, Telecarus' charges Grogbreff hoping to repeat his last kill, as Squad Primus charges Squigbita. The Orks roar with laughter as the Guardsmen fail to hurt anything more than their own pride. In response Grogbreff batters the Tech-Priest aside with ease, and Squigbita starts to thin out Squad Primus. In the Northwest Secundus and the trukk continue their fight.
 
@@ -90,8 +90,15 @@ Unit|Result
 Castellan Rhys|0XP &rarr; 7XP<br>Battle Trait: Booming Voice
 Alesis Telecarus|0XP &rarr; 2XP<br>Battle Scar: Crippling Damage
 Commissar Schoenfeld|6XP &rarr; 10XP
-Taurox Prime|0XP &rarr; 1XP<br>Battle Scar: Battle Weary
-Dragon's Fire|0XP &rarr; 5XP (Marked for Greatness)
+Battle-Psyker Belafore|0XP &rarr; 1XP
+Squad Primus|0XP &rarr; 1XP
+Squad Secundus|0XP &rarr; 1XP
+The Spearhead|0XP &rarr; 1XP<br>Battle Scar: Battle-Weary
+Steel Lance|0XP &rarr; 1XP?
+Firebrand|0XP &rarr; 1XP?
+Strike Team Epsilon|0XP &rarr; 1XP?
+Rhys' Wreckers|0XP &rarr; 1XP?
+Dragon's Fire|0XP &rarr; 5XP *(Marked for Greatness)*
 
 #### [Badskwal Bukkaneerz](#/factions/badskwal-bukkaneerz)
 ###
@@ -105,8 +112,16 @@ Dragon's Fire|0XP &rarr; 5XP (Marked for Greatness)
 
 Operative|Result
 -|-
-Kaptin Grogbreff|0XP &rarr; 10XP<br>Weapon Mod: Power Klaw (+1 S -1 AP)
-Morgrod Squigbita|0XP &rarr; 5XP (Marked for Greatness)
+Kaptin Grogbreff|0XP &rarr; 10XP<br>Weapon Mod: Power Klaw *(+1 S -1 AP)*
+Morgrod Squigbita|0XP &rarr; 5XP *(Marked for Greatness)*
+Gorgob Gitstompa|0XP &rarr; 1XP
 Morgrod's Boyz|0XP &rarr; 2XP
+Gitstompa's Boyz|0XP &rarr; 1XP
+Da Cheap Shotz|0XP &rarr; 1XP
 Gretchin|0XP &rarr; 1XP<br>Battle Scar: Mark of Shame
-Warbikers|0XP &rarr; 1XP<br>Battle Scar: Mark of Shame
+Grogbreff's Nobz|0XP &rarr; 1XP
+Da Hot Wheelz|0XP &rarr; 1XP<br>Battle Scar: Mark of Shame
+Da Gorky Grinna|0XP &rarr; 1XP
+Da Furst Trukk|0XP &rarr; 1XP
+Da Sekund Trukk|0XP &rarr; 1XP
+Da Furd Trukk|0XP &rarr; 1XP

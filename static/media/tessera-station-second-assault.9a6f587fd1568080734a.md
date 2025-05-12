@@ -76,13 +76,18 @@
 
 Unit|Result
 -|-
-Castellan Rhys|7XP &rarr; 8XP<br>Battle Scar: Mark of Shame
+Castellan Rhys|7XP &rarr; 8XP<br>Battle Scar: Mark of Shame *(removed)*
+Alesis Telecarus|2XP &rarr; 3XP
+Commissar Schoenfeld|10XP &rarr; 11XP
+Battle-Psyker Belafore|1XP &rarr; 2XP
 Squad Primus|1XP &rarr; 3XP
 Squad Secundus|1XP &rarr; 3XP
-Steel Lance|1XP &rarr; 6XP (Marked for Greatness)<br>Battle Trait: Guerillas
+The Spearhead|1XP &rarr; 2XP
+Steel Lance|1XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Trait: Guerillas
 Firebrand|1XP &rarr; 3XP
 Strike Team Epsilon|1XP &rarr; 3XP
-Dragon's Fire|5XP &rarr; 6XP<br>Weapon Mod: Plasma Cannon (+1 BS +1 A)
+Rhys' Wreckers|1XP &rarr; 2XP
+Dragon's Fire|5XP &rarr; 6XP<br>Weapon Mod: Plasma Cannon *(+1 BS +1 A)*
 
 #### [Terror Crusade](#/factions/terror-crusade)
 ###
@@ -100,4 +105,11 @@ Dragon's Fire|5XP &rarr; 6XP<br>Weapon Mod: Plasma Cannon (+1 BS +1 A)
 Operative|Result
 -|-
 Lord Vargouille|0XP &rarr; 5XP
-True Vessels|0XP &rarr; 4XP (Marked for Greatness)
+Nethphaos Qhaysh'yek|0XP &rarr; 1XP
+True Vessels|0XP &rarr; 4XP *(Marked for Greatness)*
+Flensing Fangs|0XP &rarr; 1XP
+The Heretic's Fork|0XP &rarr; 1XP
+The Tremorhost|0XP &rarr; 1XP
+The Basilisk|0XP &rarr; 1XP
+The Night Watch|0XP &rarr; 1XP
+Grim Phantoms|0XP &rarr; 1XP
