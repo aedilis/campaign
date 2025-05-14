@@ -94,10 +94,10 @@ Battle-Psyker Belafore|0XP &rarr; 1XP
 Squad Primus|0XP &rarr; 1XP
 Squad Secundus|0XP &rarr; 1XP
 The Spearhead|0XP &rarr; 1XP<br>Battle Scar: Battle-Weary
-Steel Lance|0XP &rarr; 1XP?
-Firebrand|0XP &rarr; 1XP?
-Strike Team Epsilon|0XP &rarr; 1XP?
-Rhys' Wreckers|0XP &rarr; 1XP?
+Steel Lance|0XP &rarr; 1XP
+Firebrand|0XP &rarr; 1XP
+Strike Team Epsilon|0XP &rarr; 1XP
+Rhys' Wreckers|0XP &rarr; 1XP
 Dragon's Fire|0XP &rarr; 5XP *(Marked for Greatness)*
 
 #### [Badskwal Bukkaneerz](#/factions/badskwal-bukkaneerz)

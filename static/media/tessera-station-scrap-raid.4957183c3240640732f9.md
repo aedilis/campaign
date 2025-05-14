@@ -74,7 +74,7 @@ Vargouille and Gitstompa swung powered blow against massive riposte, again and a
 
 As if the gods caught his flicker of doubt, Vargouille began to feel a subliminal tug. Looking down, he saw his left leg shrouded in trickling, liquidy shadow, that passed over his armor and moved on to reveal emptiness where his limb had once stood. The anomaly spread across his lower body, winking him out of existence, punishing him by removing him from battle. Vargouille could sense himself reappearing safely, shamefully, at his operating base.
 
-"Oh no ya don't!" Gitstompa barked. "Yer not gettin' away again!" He plunged his klaw into Vargouille's exposed flank, just as that flank disappeared into nothingness, leaving only a disembodied weapon arm wreathed in smoke as it floated aloft. Just before it disappeared, the weapon arm cracked across Gistompa's face, sending him sprawling unconscious to the ground.
+Gitstompa snarled in displeasure at his foe's apparent retreat and wrenched his klaw open for a brutal crush just as Vargouille cracked his accursed maul against the warboss's face. As Gistompa fell backwards, his klaw clenched shut against Vargouille's weapon, ripping it from the Night Lord's grasp just as the gauntlet holding it disappeared into nothingness. The Ork fell sprawling to the ground in an unconscious heap, alone, with the broken maul thudding into the dirt beside him.
 
 - ![](16_tessera_station/06c-01.jpg "")
 
@@ -114,7 +114,7 @@ Operative|Result
 Kaptin Grogbreff|10XP &rarr; 15XP
 Morgrod Squigbita|5XP &rarr; 7XP<br>Weapon Mod: Power Klaw *(+1 S -1 AP)*
 Gorgob Gitstompa|1XP &rarr; 5XP
-Morgrod's Boyz|2XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Honor: Ded Choppy *(reroll 1s to wound in Waaagh!)*<br>Battle Scar: Battle-Weary *(removed)*
+Morgrod's Boyz|2XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Honor: Ded Choppy<br>*(reroll 1s to wound in melee in Waaagh!)*<br>Battle Scar: Battle-Weary *(removed)*
 Gitstompa's Boyz|1XP &rarr; 2XP
 Da Cheap Shotz|1XP &rarr; 2XP
 Gretchin|1XP &rarr; 2XP<br>Battle Scar: Deep Scars
@@ -128,10 +128,10 @@ Da Furd Trukk|1XP &rarr; 5XP
 #### [Terror Crusade](#/factions/terror-crusade)
 ###
 
-##### Chaos Points: +3 **
-##### Personal Glory: 3 &rarr; 6 **
-##### Dark God Glory: 3 **
-##### Warfleet Glory: 3 &rarr; 4 **
+##### Chaos Points: +1
+##### Personal Glory: 6 &rarr; 5
+##### Dark God Glory: 3 &rarr; 2 +++FORSAKEN BY THE DARK GODS+++
+##### Warfleet Glory: 4 &rarr; 4
 ###
 
 ##### Claim and Despoil: True Vessels +3XP
@@ -140,12 +140,12 @@ Da Furd Trukk|1XP &rarr; 5XP
 
 Operative|Result
 -|-
-Lord Vargouille|5XP &rarr; 7XP<br>Honor??
+Lord Vargouille|5XP &rarr; 7XP<br>Rearm and Resupply: Accursed Weapon &rarr; Power Fist<br>Chaos Boon: Iron-hard Talons *(melee AP -1)*
 Nethphaos Qhaysh'yek|1XP &rarr; 2XP
-True Vessels|4XP &rarr; 8XP<br>Honor??
-Flensing Fangs|1XP &rarr; 2XP
+True Vessels|4XP &rarr; 8XP<br>Battle Honor: Favoured Servants *(+1 BS, +1 WS)*
+Flensing Fangs|1XP &rarr; 3XP
 The Heretic's Fork|1XP &rarr; 2XP
 The Tremorhost|1XP &rarr; 2XP
 The Basilisk|1XP &rarr; 2XP
 The Night Watch|1XP &rarr; 2XP
-Grim Phantoms|1XP &rarr; 6XP *(Marked for Greatness)*<br>Honor??
+Grim Phantoms|1XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Honor: Hate-fuelled Butchers *(+1 WS)*
