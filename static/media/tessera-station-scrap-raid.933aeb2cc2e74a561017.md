@@ -125,6 +125,11 @@ Da Furst Trukk|1XP &rarr; 2XP
 Da Sekund Trukk|1XP &rarr; 2XP
 Da Furd Trukk|1XP &rarr; 5XP
 
+### Requisitions
+##### Increase Supply Limit 1000 &rarr; 1200 +++ Stompin' Points 8 &rarr; 9
+##### Repair and Recuperate: Morgrod's Boyz
+###
+
 #### [Terror Crusade](#/factions/terror-crusade)
 ###
 
@@ -140,7 +145,7 @@ Da Furd Trukk|1XP &rarr; 5XP
 
 Operative|Result
 -|-
-Lord Vargouille|5XP &rarr; 7XP<br>Rearm and Resupply: Accursed Weapon &rarr; Power Fist<br>Chaos Boon: Iron-hard Talons *(melee AP -1)*
+Lord Vargouille|5XP &rarr; 7XP<br>Chaos Boon: Iron-hard Talons *(melee AP -1)*
 Nethphaos Qhaysh'yek|1XP &rarr; 2XP
 True Vessels|4XP &rarr; 8XP<br>Battle Trait: Favoured Servants *(+1 BS, +1 WS)*
 Flensing Fangs|1XP &rarr; 3XP
@@ -149,3 +154,7 @@ The Tremorhost|1XP &rarr; 2XP
 The Basilisk|1XP &rarr; 2XP
 The Night Watch|1XP &rarr; 2XP
 Grim Phantoms|1XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Trait: Hate-fuelled Butchers *(+1 WS)*
+
+### Requisitions
+##### Rearm and Resupply: Lord Vargouille +++ Accursed Weapon &rarr; Power Fist
+###

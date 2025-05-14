@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.8b47ecd5.css",
-    "main.js": "/campaign/static/js/main.1d1041e2.js",
+    "main.js": "/campaign/static/js/main.700249f8.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -54,8 +54,8 @@
     "static/js/3015.0ee8a2a8.chunk.js": "/campaign/static/js/3015.0ee8a2a8.chunk.js",
     "static/js/6043.2d7c1c85.chunk.js": "/campaign/static/js/6043.2d7c1c85.chunk.js",
     "static/js/9689.4efd116f.chunk.js": "/campaign/static/js/9689.4efd116f.chunk.js",
-    "static/js/5065.875367fc.chunk.js": "/campaign/static/js/5065.875367fc.chunk.js",
-    "static/js/1395.d91786a5.chunk.js": "/campaign/static/js/1395.d91786a5.chunk.js",
+    "static/js/5065.20a3175e.chunk.js": "/campaign/static/js/5065.20a3175e.chunk.js",
+    "static/js/1395.32a2e177.chunk.js": "/campaign/static/js/1395.32a2e177.chunk.js",
     "static/js/5161.b4cac266.chunk.js": "/campaign/static/js/5161.b4cac266.chunk.js",
     "static/js/1416.a211f6a7.chunk.js": "/campaign/static/js/1416.a211f6a7.chunk.js",
     "static/js/8748.2d8b1b33.chunk.js": "/campaign/static/js/8748.2d8b1b33.chunk.js",
@@ -372,7 +372,7 @@
     "static/media/phobos_strike_team.svg": "/campaign/static/media/phobos_strike_team.f6c5755f459947f75a10.svg",
     "static/media/acheros.jpeg": "/campaign/static/media/acheros.0ed0865c0f3f2e8d3938.jpeg",
     "static/media/kuvala.jpeg": "/campaign/static/media/kuvala.0b813f26044fff9390e9.jpeg",
-    "static/media/tessera-station-scrap-raid.md": "/campaign/static/media/tessera-station-scrap-raid.79dee2c493f654097968.md",
+    "static/media/tessera-station-scrap-raid.md": "/campaign/static/media/tessera-station-scrap-raid.933aeb2cc2e74a561017.md",
     "static/media/tengara.jpeg": "/campaign/static/media/tengara.1b2a31bf353937fcabe2.jpeg",
     "static/media/perseverance.jpeg": "/campaign/static/media/perseverance.8e55ea7ffc25e6a46e32.jpeg",
     "static/media/hernkyn_yaegirs.svg": "/campaign/static/media/hernkyn_yaegirs.9f3fd2ffc69929d19159.svg",
@@ -393,7 +393,7 @@
     "static/media/fae.svg": "/campaign/static/media/fae.08742d20488f2ba3dc43.svg",
     "static/media/defense-of-telemane.md": "/campaign/static/media/defense-of-telemane.cfcbb0e8e5b6ce4bae27.md",
     "static/media/green-tide-rises.md": "/campaign/static/media/green-tide-rises.eccd0de4dae0d49f268f.md",
-    "static/media/tessera-station-second-assault.md": "/campaign/static/media/tessera-station-second-assault.9a6f587fd1568080734a.md",
+    "static/media/tessera-station-second-assault.md": "/campaign/static/media/tessera-station-second-assault.d9ee910af5bd8a454eab.md",
     "static/media/aeronautica.svg": "/campaign/static/media/aeronautica.e9543894e8712fe1adb8576208fbd2c8.svg",
     "static/media/hegesthes-outpost-kappa-12.md": "/campaign/static/media/hegesthes-outpost-kappa-12.13ea5bfad1a995c26bf5.md",
     "static/media/battle-of-hive-aspidopolis.md": "/campaign/static/media/battle-of-hive-aspidopolis.478e436b0e76e6ed6c1c.md",
@@ -534,10 +534,10 @@
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.8b47ecd5.css.map": "/campaign/static/css/main.8b47ecd5.css.map",
-    "main.1d1041e2.js.map": "/campaign/static/js/main.1d1041e2.js.map"
+    "main.700249f8.js.map": "/campaign/static/js/main.700249f8.js.map"
   },
   "entrypoints": [
     "static/css/main.8b47ecd5.css",
-    "static/js/main.1d1041e2.js"
+    "static/js/main.700249f8.js"
   ]
 }

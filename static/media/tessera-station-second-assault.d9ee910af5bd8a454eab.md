@@ -89,6 +89,11 @@ Strike Team Epsilon|1XP &rarr; 3XP
 Rhys' Wreckers|1XP &rarr; 2XP
 Dragon's Fire|5XP &rarr; 6XP<br>Weapon Mod: Plasma Cannon *(+1 BS +1 A)*
 
+### Requisitions
+##### Increase Supply Limit 1000 &rarr; 1200
+##### Repair and Recuperate: Castellan Rhys
+###
+
 #### [Terror Crusade](#/factions/terror-crusade)
 ###
 
