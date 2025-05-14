@@ -102,7 +102,7 @@ Squigbita winced at the kaptin's invective. "Ya got most uv da spikey beakies by
 #### [Badskwal Bukkaneerz](#/factions/badskwal-bukkaneerz)
 ###
 
-##### Stompin' Points: 2 &rarr; 8
+##### Stompin' Points: 3 &rarr; 9
 ###
 
 ##### Show 'Em How It's Done: Grogbreff +3XP
@@ -123,10 +123,10 @@ Da Hot Wheelz|1XP &rarr; 2XP
 Da Gorky Grinna|1XP &rarr; 2XP
 Da Furst Trukk|1XP &rarr; 2XP
 Da Sekund Trukk|1XP &rarr; 2XP
-Da Furd Trukk|1XP &rarr; 5XP
+Da Spare Trukk|1XP &rarr; 5XP
 
 ### Requisitions
-##### Increase Supply Limit 1000 &rarr; 1200 +++ Stompin' Points 8 &rarr; 9
+##### Increase Supply Limit 1000 &rarr; 1200 +++ Stompin' Points 9 &rarr; 10
 ##### Repair and Recuperate: Morgrod's Boyz
 ###
 

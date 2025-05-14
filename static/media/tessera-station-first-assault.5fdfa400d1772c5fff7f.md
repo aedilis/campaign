@@ -103,7 +103,7 @@ Dragon's Fire|0XP &rarr; 5XP *(Marked for Greatness)*
 #### [Badskwal Bukkaneerz](#/factions/badskwal-bukkaneerz)
 ###
 
-##### Stompin' Points: 0 &rarr; 2
+##### Stompin' Points: 0 &rarr; 3
 ###
 
 ##### Show 'Em How It's Done: Grogbreff +6XP
@@ -124,4 +124,4 @@ Da Hot Wheelz|0XP &rarr; 1XP<br>Battle Scar: Mark of Shame
 Da Gorky Grinna|0XP &rarr; 1XP
 Da Furst Trukk|0XP &rarr; 1XP
 Da Sekund Trukk|0XP &rarr; 1XP
-Da Furd Trukk|0XP &rarr; 1XP
+Da Spare Trukk|0XP &rarr; 1XP
