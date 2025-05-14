@@ -102,7 +102,7 @@ Squigbita winced at the kaptin's invective. "Ya got most uv da spikey beakies by
 #### [Badskwal Bukkaneerz](#/factions/badskwal-bukkaneerz)
 ###
 
-##### Stompin' Points: 2 &rarr; 5
+##### Stompin' Points: 2 &rarr; 8
 ###
 
 ##### Show 'Em How It's Done: Grogbreff +3XP
@@ -112,9 +112,9 @@ Squigbita winced at the kaptin's invective. "Ya got most uv da spikey beakies by
 Operative|Result
 -|-
 Kaptin Grogbreff|10XP &rarr; 15XP
-Morgrod Squigbita|5XP &rarr; 7XP<br>Weapon Mod: Power Klaw *(+1 S -1 AP)*
+Morgrod Squigbita|5XP &rarr; 6XP<br>Weapon Mod: Power Klaw *(+1 S -1 AP)*
 Gorgob Gitstompa|1XP &rarr; 5XP
-Morgrod's Boyz|2XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Honor: Ded Choppy<br>*(reroll 1s to wound in melee in Waaagh!)*<br>Battle Scar: Battle-Weary *(removed)*
+Morgrod's Boyz|2XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Trait: Only the Swift Survive<br>*(+1" to Advance and Charge)*<br>Battle Scar: Battle-Weary *(removed)*
 Gitstompa's Boyz|1XP &rarr; 2XP
 Da Cheap Shotz|1XP &rarr; 2XP
 Gretchin|1XP &rarr; 2XP<br>Battle Scar: Deep Scars
@@ -142,10 +142,10 @@ Operative|Result
 -|-
 Lord Vargouille|5XP &rarr; 7XP<br>Rearm and Resupply: Accursed Weapon &rarr; Power Fist<br>Chaos Boon: Iron-hard Talons *(melee AP -1)*
 Nethphaos Qhaysh'yek|1XP &rarr; 2XP
-True Vessels|4XP &rarr; 8XP<br>Battle Honor: Favoured Servants *(+1 BS, +1 WS)*
+True Vessels|4XP &rarr; 8XP<br>Battle Trait: Favoured Servants *(+1 BS, +1 WS)*
 Flensing Fangs|1XP &rarr; 3XP
 The Heretic's Fork|1XP &rarr; 2XP
 The Tremorhost|1XP &rarr; 2XP
 The Basilisk|1XP &rarr; 2XP
 The Night Watch|1XP &rarr; 2XP
-Grim Phantoms|1XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Honor: Hate-fuelled Butchers *(+1 WS)*
+Grim Phantoms|1XP &rarr; 6XP *(Marked for Greatness)*<br>Battle Trait: Hate-fuelled Butchers *(+1 WS)*
