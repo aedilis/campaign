@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[6705],{96705:(e,s,a)=>{e.exports=a.p+"static/media/commissar-schoenfeld.004642e4e51bc5461550.md"}}]);

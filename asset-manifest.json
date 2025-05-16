@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.8b47ecd5.css",
-    "main.js": "/campaign/static/js/main.aa604879.js",
+    "main.js": "/campaign/static/js/main.daad81f5.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -90,7 +90,7 @@
     "static/js/726.e09c1f2c.chunk.js": "/campaign/static/js/726.e09c1f2c.chunk.js",
     "static/js/1634.f252a5bf.chunk.js": "/campaign/static/js/1634.f252a5bf.chunk.js",
     "static/js/7771.0f0e6f22.chunk.js": "/campaign/static/js/7771.0f0e6f22.chunk.js",
-    "static/js/6705.696a5d91.chunk.js": "/campaign/static/js/6705.696a5d91.chunk.js",
+    "static/js/6705.2c1776b8.chunk.js": "/campaign/static/js/6705.2c1776b8.chunk.js",
     "static/js/1795.00f22c05.chunk.js": "/campaign/static/js/1795.00f22c05.chunk.js",
     "static/js/455.4c7cb332.chunk.js": "/campaign/static/js/455.4c7cb332.chunk.js",
     "static/js/8019.3c506362.chunk.js": "/campaign/static/js/8019.3c506362.chunk.js",
@@ -223,6 +223,7 @@
     "static/media/daybreakC.png": "/campaign/static/media/daybreakC.f36273caa356767adc0c.png",
     "static/media/marshals_mules.jpg": "/campaign/static/media/marshals_mules.718a0d8b13cbba407996.jpg",
     "static/media/decker_bask.jpg": "/campaign/static/media/decker_bask.2da18b60ab532da86f98.jpg",
+    "static/media/schoenfeld.jpg": "/campaign/static/media/schoenfeld.53d342f8e44824b6bf87.jpg",
     "static/media/07b-03.jpg": "/campaign/static/media/07b-03.91e078034ec52bf2e56b.jpg",
     "static/media/03c-01.jpg": "/campaign/static/media/03c-01.5db05cb37e66cd7d4cca.jpg",
     "static/media/ludolf.jpg": "/campaign/static/media/ludolf.7c9518098e6768e8b9c6.jpg",
@@ -244,6 +245,7 @@
     "static/media/317_lieutenant_raphe.jpg": "/campaign/static/media/317_lieutenant_raphe.2c7fe9bd7f1307198e06.jpg",
     "static/media/07b-01.jpg": "/campaign/static/media/07b-01.a9aac80990b53fd1f4cd.jpg",
     "static/media/bilge_squigz.jpg": "/campaign/static/media/bilge_squigz.f517426ed0e63668c102.jpg",
+    "static/media/terror_crusade.jpg": "/campaign/static/media/terror_crusade.0f235da04d9ccbe7bb18.jpg",
     "static/media/hui_and_luden.jpg": "/campaign/static/media/hui_and_luden.df03f9938e5b0167ea06.jpg",
     "static/media/governor.png": "/campaign/static/media/governor.ef1d498ed38262464f15.png",
     "static/media/albrecht.jpg": "/campaign/static/media/albrecht.1059d5f510d78bf24ab7.jpg",
@@ -286,7 +288,7 @@
     "static/media/loudgobClose.jpg": "/campaign/static/media/loudgobClose.8930984623259b8cabf3.jpg",
     "static/media/crouchC.png": "/campaign/static/media/crouchC.a732229db4e5a6ac8606.png",
     "static/media/badrukk.png": "/campaign/static/media/badrukk.47c99109e7a9ea4c6c01.png",
-    "static/media/schoenfeld.jpg": "/campaign/static/media/schoenfeld.351471dae51ad48b2726.jpg",
+    "static/media/schoenfeld_old.jpg": "/campaign/static/media/schoenfeld_old.351471dae51ad48b2726.jpg",
     "static/media/kelermorphC.png": "/campaign/static/media/kelermorphC.d35fcc3a79dd3e827916.png",
     "static/media/saboteurC.png": "/campaign/static/media/saboteurC.0f51a902c6316163306d.png",
     "static/media/artillery.png": "/campaign/static/media/artillery.6987e426504e0024aa96.png",
@@ -433,7 +435,7 @@
     "static/media/world_eaters.svg": "/campaign/static/media/world_eaters.6e7c51812d1a2e4931b57076cc70a81a.svg",
     "static/media/kroot.svg": "/campaign/static/media/kroot.cd510f4494106a589e6a312412af7e84.svg",
     "static/media/marshal-ulrich.md": "/campaign/static/media/marshal-ulrich.2060b5fda1fd0ab1ad6b.md",
-    "static/media/commissar-schoenfeld.md": "/campaign/static/media/commissar-schoenfeld.3a55380a2c5f6829ae2f.md",
+    "static/media/commissar-schoenfeld.md": "/campaign/static/media/commissar-schoenfeld.004642e4e51bc5461550.md",
     "static/media/viridian-weavers.md": "/campaign/static/media/viridian-weavers.f443c924dab7a0a39480.md",
     "static/media/cousinry-of-the-broken-chain.md": "/campaign/static/media/cousinry-of-the-broken-chain.bb7f75cdd18e71526f0c.md",
     "static/media/merope-system.md": "/campaign/static/media/merope-system.b6a8eb4f171e9a7e9eaa.md",
@@ -534,10 +536,10 @@
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.8b47ecd5.css.map": "/campaign/static/css/main.8b47ecd5.css.map",
-    "main.aa604879.js.map": "/campaign/static/js/main.aa604879.js.map"
+    "main.daad81f5.js.map": "/campaign/static/js/main.daad81f5.js.map"
   },
   "entrypoints": [
     "static/css/main.8b47ecd5.css",
-    "static/js/main.aa604879.js"
+    "static/js/main.daad81f5.js"
   ]
 }

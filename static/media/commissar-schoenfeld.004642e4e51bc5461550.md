@@ -15,3 +15,5 @@ Despite the traitor victory, the near-draw of the final battle allowed for an or
 # The Eryxian War
 
 The industrial world of [Eryx](#/maps/eryx) in the Hegesthes System became the next focal point of the war with the Night Lords, as the [Hegesthean Dusters](#/factions/hegesthean-dusters) sought every advantage they could muster in expelling the warband under [Lord Vargouille](#/characters/reshig-vargouille) while dealing with the planet's [ongoing headaches](#/factions/bilge-squigz).
+
+- ![](imperium/schoenfeld_old.jpg "Commissar Schoenfeld stands against the Umbra Mortis on Telemane before his injury")
