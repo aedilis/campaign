@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[5509],{15509:(a,e,p)=>{a.exports=p.p+"static/media/nova-vortex.5e5da5a5d4e22bd8a887.md"}}]);

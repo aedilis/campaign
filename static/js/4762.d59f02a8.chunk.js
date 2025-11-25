@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4762],{54762:(a,c,e)=>{a.exports=e.p+"static/media/macrocannon-xvii.f64cc455a541799a8b34.md"}}]);

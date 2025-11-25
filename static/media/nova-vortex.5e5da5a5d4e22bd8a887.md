@@ -2,7 +2,7 @@ Vespid auxiliaries accompanied the Daybreak Protectorate to the Caldraeus Cluste
 
 # Background
 
-Formation Nova Vortex is organized around the joint direction of Shas'ui Vior'la Ko'ryr and the Strain Leader designated NV-One for purposes of field communications.
+Formation Nova Vortex is organized around the joint direction of Shas'ui Ko'sei Ko'ryr and the Strain Leader designated NV-One for purposes of field communications.
 
 # Caldraeus
 
