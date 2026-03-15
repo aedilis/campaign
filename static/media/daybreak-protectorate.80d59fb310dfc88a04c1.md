@@ -87,7 +87,7 @@ Farstrider / Farseeker
 
 - ![](orks/badbreff.jpeg "Looted yer gallery space har har")
 - ![hidden](tau/daybreakC.png "Shas'O Vior'la K'yen Rotaa'shi Qath'shan'al. Commander Daybreak of Vior'la Sept, Protector of the Coalition, of the Rising Dawn Cadre.")
-- ![hidden](tau/daybreakCg.jpeg "Shas'O Ko'sei K'yen Rotaa'shi Qath'shan'al. Commander Daybreak of Vior'la Sept, Protector of the Coalition, of the Rising Dawn Cadre.")
+- ![hidden](tau/daybreakCg.jpeg "Shas'O Ko'sei K'yen Rotaa'shi Qath'shan'al. Commander Daybreak of Ko'sei Sept, Protector of the Coalition, of the Rising Dawn Cadre.")
 - ![hidden](tau/shadowsun.png "Shas'O Ko'sei Loressa Starblaze/Stargleam/Skyblaze/Starshine, of the Rising Dawn Cadre.")
 - ![hidden](tau/cloudlightC.png "Commander Sa'yaras Cloudlight, leader of the Fireknife team Ta'ro'cha Skybreakers, of the Blazing Sun Cadre")
 - ![hidden](tau/cloudlightCg.jpg "Commander Sa'yaras Cloudlight, leader of the Fireknife team Ta'ro'cha Skybreakers, of the Blazing Sun Cadre")

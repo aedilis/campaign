@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4868],{64868:(e,a,c)=>{e.exports=c.p+"static/media/mournful-sepulchre.004b956520ee85dddcfa.md"}}]);
