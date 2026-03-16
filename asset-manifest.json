@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.870f3cc2.css",
-    "main.js": "/campaign/static/js/main.a4b2155b.js",
+    "main.js": "/campaign/static/js/main.75990f5c.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -13,6 +13,7 @@
     "static/js/7176.f4c4a21c.chunk.js": "/campaign/static/js/7176.f4c4a21c.chunk.js",
     "static/js/5610.50ed7c59.chunk.js": "/campaign/static/js/5610.50ed7c59.chunk.js",
     "static/js/6842.043003fd.chunk.js": "/campaign/static/js/6842.043003fd.chunk.js",
+    "static/js/8831.41f01327.chunk.js": "/campaign/static/js/8831.41f01327.chunk.js",
     "static/js/4792.339c3cc5.chunk.js": "/campaign/static/js/4792.339c3cc5.chunk.js",
     "static/js/9476.02a8fe9b.chunk.js": "/campaign/static/js/9476.02a8fe9b.chunk.js",
     "static/js/4206.6038aa46.chunk.js": "/campaign/static/js/4206.6038aa46.chunk.js",
@@ -56,7 +57,7 @@
     "static/js/5961.4cd56e15.chunk.js": "/campaign/static/js/5961.4cd56e15.chunk.js",
     "static/js/3015.0ee8a2a8.chunk.js": "/campaign/static/js/3015.0ee8a2a8.chunk.js",
     "static/js/6043.2d7c1c85.chunk.js": "/campaign/static/js/6043.2d7c1c85.chunk.js",
-    "static/js/2548.363243a1.chunk.js": "/campaign/static/js/2548.363243a1.chunk.js",
+    "static/js/2548.766aaad8.chunk.js": "/campaign/static/js/2548.766aaad8.chunk.js",
     "static/js/6552.8d43d6a5.chunk.js": "/campaign/static/js/6552.8d43d6a5.chunk.js",
     "static/js/9689.c6df0258.chunk.js": "/campaign/static/js/9689.c6df0258.chunk.js",
     "static/js/5065.e8e2500d.chunk.js": "/campaign/static/js/5065.e8e2500d.chunk.js",
@@ -243,6 +244,7 @@
     "static/media/whisperer.jpg": "/campaign/static/media/whisperer.75717b5d812379177b87.jpg",
     "static/media/07-02.jpg": "/campaign/static/media/07-02.acfdef0a1f8a4190cd5c.jpg",
     "static/media/umbranox.jpg": "/campaign/static/media/umbranox.11e475a6a241c355958e.jpg",
+    "static/media/xb.jpg": "/campaign/static/media/xb.379f12cfdc1a147272b7.jpg",
     "static/media/ulrich.jpg": "/campaign/static/media/ulrich.d12284d7e218365ed7b2.jpg",
     "static/media/galaxy.jpeg": "/campaign/static/media/galaxy.bcb2cebbeccc9a87b5a7.jpeg",
     "static/media/02-05.jpg": "/campaign/static/media/02-05.67595396057efca914a3.jpg",
@@ -507,6 +509,7 @@
     "static/media/omadikea-system.md": "/campaign/static/media/omadikea-system.7a8e9e7018c4a37e767e.md",
     "static/media/tybar-system.md": "/campaign/static/media/tybar-system.492461fe1ddbae3d489a.md",
     "static/media/mournful-sepulchre.md": "/campaign/static/media/mournful-sepulchre.004b956520ee85dddcfa.md",
+    "static/media/templars-break-siege.md": "/campaign/static/media/templars-break-siege.9c83d1467288ef1c2573.md",
     "static/media/orks.svg": "/campaign/static/media/orks.6ef5df5d67d3e807e073e6b0e7147b14.svg",
     "static/media/grazbogs-gitz.md": "/campaign/static/media/grazbogs-gitz.3840d0329a880e6ab254.md",
     "static/media/aeldari.svg": "/campaign/static/media/aeldari.53777781b31561c324589049ad7b6a75.svg",
@@ -553,7 +556,6 @@
     "static/media/last-breath.md": "/campaign/static/media/last-breath.3aed07474b872b9c73f0.md",
     "static/media/alektor.md": "/campaign/static/media/alektor.0964b0d4c5859736ab0d.md",
     "static/media/morgrod-squigbita.md": "/campaign/static/media/morgrod-squigbita.ebf3fb10c6077c92bbee.md",
-    "static/media/templars-break-siege.md": "/campaign/static/media/templars-break-siege.8b91c5d42d57f5fdb00f.md",
     "static/media/tau.svg": "/campaign/static/media/tau.1c0c9644af8870188dea87f4c5c18f15.svg",
     "index.html": "/campaign/index.html",
     "static/media/caldraeus.md": "/campaign/static/media/caldraeus.0fc9d294149e81128e90.md",
@@ -572,6 +574,7 @@
     "static/media/ialaranth.md": "/campaign/static/media/ialaranth.caf7060c526b23485bc6.md",
     "static/media/decker-bask.md": "/campaign/static/media/decker-bask.15d56c3f5fa7ce2bb76a.md",
     "static/media/omadikea.md": "/campaign/static/media/omadikea.587d4e23ede6b6923e80.md",
+    "static/media/holdenheim.md": "/campaign/static/media/holdenheim.70b4c4694536dffea2a2.md",
     "static/media/ialaranth-system.md": "/campaign/static/media/ialaranth-system.34b6520deb4f66c6f952.md",
     "static/media/broot-skwad.md": "/campaign/static/media/broot-skwad.f77ca6d83b951bae3cdd.md",
     "static/media/toofkrakka.md": "/campaign/static/media/toofkrakka.37414738efa249823002.md",
@@ -589,10 +592,10 @@
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.870f3cc2.css.map": "/campaign/static/css/main.870f3cc2.css.map",
-    "main.a4b2155b.js.map": "/campaign/static/js/main.a4b2155b.js.map"
+    "main.75990f5c.js.map": "/campaign/static/js/main.75990f5c.js.map"
   },
   "entrypoints": [
     "static/css/main.870f3cc2.css",
-    "static/js/main.a4b2155b.js"
+    "static/js/main.75990f5c.js"
   ]
 }

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[2548],{22548:(e,a,s)=>{e.exports=s.p+"static/media/templars-break-siege.9c83d1467288ef1c2573.md"}}]);
