@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[8831],{38831:(a,e,c)=>{a.exports=c.p+"static/media/holdenheim.70b4c4694536dffea2a2.md"}}]);

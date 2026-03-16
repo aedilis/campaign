@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[1965],{1965:(e,a,s)=>{e.exports=s.p+"static/media/holdenheim-system.aef28ab8e87e2cb68337.md"}}]);

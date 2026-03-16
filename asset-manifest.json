@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/campaign/static/css/main.870f3cc2.css",
-    "main.js": "/campaign/static/js/main.75990f5c.js",
+    "main.css": "/campaign/static/css/main.e5dc76b0.css",
+    "main.js": "/campaign/static/js/main.6f713ced.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -13,7 +13,8 @@
     "static/js/7176.f4c4a21c.chunk.js": "/campaign/static/js/7176.f4c4a21c.chunk.js",
     "static/js/5610.50ed7c59.chunk.js": "/campaign/static/js/5610.50ed7c59.chunk.js",
     "static/js/6842.043003fd.chunk.js": "/campaign/static/js/6842.043003fd.chunk.js",
-    "static/js/8831.41f01327.chunk.js": "/campaign/static/js/8831.41f01327.chunk.js",
+    "static/js/1965.c0a0e2d0.chunk.js": "/campaign/static/js/1965.c0a0e2d0.chunk.js",
+    "static/js/8831.6d4dc1bd.chunk.js": "/campaign/static/js/8831.6d4dc1bd.chunk.js",
     "static/js/4792.339c3cc5.chunk.js": "/campaign/static/js/4792.339c3cc5.chunk.js",
     "static/js/9476.02a8fe9b.chunk.js": "/campaign/static/js/9476.02a8fe9b.chunk.js",
     "static/js/4206.6038aa46.chunk.js": "/campaign/static/js/4206.6038aa46.chunk.js",
@@ -541,6 +542,7 @@
     "static/media/badlandz.md": "/campaign/static/media/badlandz.b55325ff163de8d03ec6.md",
     "static/media/caldraeus-system.md": "/campaign/static/media/caldraeus-system.ec45746db8a961dc5b6f.md",
     "static/media/black_templars.svg": "/campaign/static/media/black_templars.533be69e42cd33b3ab22128bc9f87018.svg",
+    "static/media/holdenheim.md": "/campaign/static/media/holdenheim.18fca278f27306c6fddd.md",
     "static/media/exodites.svg": "/campaign/static/media/exodites.e7cf5ec2f16cf9bdfba4.svg",
     "static/media/necrons.svg": "/campaign/static/media/necrons.51debd4dd7dfcee6cd543a092fc1d5ab.svg",
     "static/media/sergeant-engelbert.md": "/campaign/static/media/sergeant-engelbert.ce14faec9cc985d1c3cc.md",
@@ -574,7 +576,7 @@
     "static/media/ialaranth.md": "/campaign/static/media/ialaranth.caf7060c526b23485bc6.md",
     "static/media/decker-bask.md": "/campaign/static/media/decker-bask.15d56c3f5fa7ce2bb76a.md",
     "static/media/omadikea.md": "/campaign/static/media/omadikea.587d4e23ede6b6923e80.md",
-    "static/media/holdenheim.md": "/campaign/static/media/holdenheim.70b4c4694536dffea2a2.md",
+    "static/media/holdenheim-system.md": "/campaign/static/media/holdenheim-system.aef28ab8e87e2cb68337.md",
     "static/media/ialaranth-system.md": "/campaign/static/media/ialaranth-system.34b6520deb4f66c6f952.md",
     "static/media/broot-skwad.md": "/campaign/static/media/broot-skwad.f77ca6d83b951bae3cdd.md",
     "static/media/toofkrakka.md": "/campaign/static/media/toofkrakka.37414738efa249823002.md",
@@ -591,11 +593,11 @@
     "static/media/the-tyrant-of-ruin.md": "/campaign/static/media/the-tyrant-of-ruin.9c84f96f14c3743767c2.md",
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
-    "main.870f3cc2.css.map": "/campaign/static/css/main.870f3cc2.css.map",
-    "main.75990f5c.js.map": "/campaign/static/js/main.75990f5c.js.map"
+    "main.e5dc76b0.css.map": "/campaign/static/css/main.e5dc76b0.css.map",
+    "main.6f713ced.js.map": "/campaign/static/js/main.6f713ced.js.map"
   },
   "entrypoints": [
-    "static/css/main.870f3cc2.css",
-    "static/js/main.75990f5c.js"
+    "static/css/main.e5dc76b0.css",
+    "static/js/main.6f713ced.js"
   ]
 }
