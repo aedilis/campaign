@@ -1,0 +1,1 @@
+Tank Commander of the *Valiant* on [Holdenheim](#/maps/holdenheim) and senior surviving officer of the siege of St. Holden's Hive.
