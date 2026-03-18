@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[6711],{6711:(a,e,s)=>{a.exports=s.p+"static/media/revenant-crusade.d4d4f1563adb85a52077.md"}}]);
