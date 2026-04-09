@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[4814],{64814:(e,a,s)=>{e.exports=s.p+"static/media/hegesthes-lt-bb.9072c2742477e0afc3d0.md"}}]);

@@ -20,7 +20,7 @@ T4-I: medic brings back three of the four dead guardsmen, taurox shoots last gro
 
 T5-O: Wortskab starts burning home obj; Raphe kills last MAN, MAboss gets sentinel to 1W
 
-T5-I: south sentinel finishes burn and heads to Wortskab, last dead guardsman comes back, bullgryns start sabotaging
+T5-I: south sentinel finishes burn and heads to Wortskab, last dead guardsman comes back, bullgryns start sabotaging; sentinel kills Wortskab but megaboss stays tarpitted
 
 ![separator](imperium/aquila.svg "")
 
