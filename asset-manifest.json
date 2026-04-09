@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.e5dc76b0.css",
-    "main.js": "/campaign/static/js/main.04b24402.js",
+    "main.js": "/campaign/static/js/main.a82aadbb.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -50,8 +50,9 @@
     "static/js/7395.ad4f691a.chunk.js": "/campaign/static/js/7395.ad4f691a.chunk.js",
     "static/js/5673.c4f3d666.chunk.js": "/campaign/static/js/5673.c4f3d666.chunk.js",
     "static/js/3041.b54f0422.chunk.js": "/campaign/static/js/3041.b54f0422.chunk.js",
+    "static/js/4814.0d1deb73.chunk.js": "/campaign/static/js/4814.0d1deb73.chunk.js",
     "static/js/7469.f535b0c3.chunk.js": "/campaign/static/js/7469.f535b0c3.chunk.js",
-    "static/js/8491.870f5814.chunk.js": "/campaign/static/js/8491.870f5814.chunk.js",
+    "static/js/8491.c8cc5657.chunk.js": "/campaign/static/js/8491.c8cc5657.chunk.js",
     "static/js/4762.d59f02a8.chunk.js": "/campaign/static/js/4762.d59f02a8.chunk.js",
     "static/js/4334.e1211ca5.chunk.js": "/campaign/static/js/4334.e1211ca5.chunk.js",
     "static/js/4850.190c3062.chunk.js": "/campaign/static/js/4850.190c3062.chunk.js",
@@ -475,7 +476,7 @@
     "static/media/X-hand_of_the_archon.svg": "/campaign/static/media/X-hand_of_the_archon.9062c72924f2df2299f3.svg",
     "static/media/marshals-mules.md": "/campaign/static/media/marshals-mules.5729dc24dbe34a25871c.md",
     "static/media/chaos-orks-clash-eryx.md": "/campaign/static/media/chaos-orks-clash-eryx.20c0f54112b2a1f7c290.md",
-    "static/media/kathikos-first-encounter.md": "/campaign/static/media/kathikos-first-encounter.02e8d8a4613b38cccd16.md",
+    "static/media/kathikos-first-encounter.md": "/campaign/static/media/kathikos-first-encounter.a8935fbbc810cf72d844.md",
     "static/media/gsc.svg": "/campaign/static/media/gsc.530ea8886b4be23b9842442f178b0779.svg",
     "static/media/red_corsairs.svg": "/campaign/static/media/red_corsairs.1bd71d6370131409a51e77316fb81498.svg",
     "static/media/skull.svg": "/campaign/static/media/skull.5bf59959068e3551a292.svg",
@@ -499,6 +500,7 @@
     "static/media/world_eaters.svg": "/campaign/static/media/world_eaters.6e7c51812d1a2e4931b57076cc70a81a.svg",
     "static/media/kroot.svg": "/campaign/static/media/kroot.cd510f4494106a589e6a312412af7e84.svg",
     "static/media/marshal-ulrich.md": "/campaign/static/media/marshal-ulrich.2060b5fda1fd0ab1ad6b.md",
+    "static/media/hegesthes-lt-bb.md": "/campaign/static/media/hegesthes-lt-bb.9072c2742477e0afc3d0.md",
     "static/media/commissar-schoenfeld.md": "/campaign/static/media/commissar-schoenfeld.004642e4e51bc5461550.md",
     "static/media/viridian-weavers.md": "/campaign/static/media/viridian-weavers.f443c924dab7a0a39480.md",
     "static/media/cousinry-of-the-broken-chain.md": "/campaign/static/media/cousinry-of-the-broken-chain.bb7f75cdd18e71526f0c.md",
@@ -606,10 +608,10 @@
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.e5dc76b0.css.map": "/campaign/static/css/main.e5dc76b0.css.map",
-    "main.04b24402.js.map": "/campaign/static/js/main.04b24402.js.map"
+    "main.a82aadbb.js.map": "/campaign/static/js/main.a82aadbb.js.map"
   },
   "entrypoints": [
     "static/css/main.e5dc76b0.css",
-    "static/js/main.04b24402.js"
+    "static/js/main.a82aadbb.js"
   ]
 }
