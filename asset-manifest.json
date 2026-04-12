@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.e5dc76b0.css",
-    "main.js": "/campaign/static/js/main.09a54035.js",
+    "main.js": "/campaign/static/js/main.63ef76c6.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -50,7 +50,7 @@
     "static/js/7395.ad4f691a.chunk.js": "/campaign/static/js/7395.ad4f691a.chunk.js",
     "static/js/5673.c4f3d666.chunk.js": "/campaign/static/js/5673.c4f3d666.chunk.js",
     "static/js/3041.b54f0422.chunk.js": "/campaign/static/js/3041.b54f0422.chunk.js",
-    "static/js/4814.0759a3f2.chunk.js": "/campaign/static/js/4814.0759a3f2.chunk.js",
+    "static/js/9647.62de419d.chunk.js": "/campaign/static/js/9647.62de419d.chunk.js",
     "static/js/7469.f535b0c3.chunk.js": "/campaign/static/js/7469.f535b0c3.chunk.js",
     "static/js/8491.c8cc5657.chunk.js": "/campaign/static/js/8491.c8cc5657.chunk.js",
     "static/js/4762.d59f02a8.chunk.js": "/campaign/static/js/4762.d59f02a8.chunk.js",
@@ -202,12 +202,17 @@
     "static/media/flight_approach.jpg": "/campaign/static/media/flight_approach.c48ee48159f1892133f7.jpg",
     "static/media/01c-02.jpg": "/campaign/static/media/01c-02.f62094fdfc4a6f5bfc67.jpg",
     "static/media/dakkajets_chase_bombers.jpg": "/campaign/static/media/dakkajets_chase_bombers.f5e854773cf29be704f7.jpg",
+    "static/media/04.jpg": "/campaign/static/media/04.4c5828c2ebc4563ac8d2.jpg",
     "static/media/02-03.png": "/campaign/static/media/02-03.c4bc28ea2defa05f853f.png",
+    "static/media/08.jpg": "/campaign/static/media/08.db1cd945b724e296ebfa.jpg",
     "static/media/02b-01.jpg": "/campaign/static/media/02b-01.93ead7734840ef9e6cda.jpg",
+    "static/media/01.jpg": "/campaign/static/media/01.8894d99aad0c2b8d410f.jpg",
     "static/media/lugnutz.jpg": "/campaign/static/media/lugnutz.ab78dd0c2f1f2ddbe467.jpg",
+    "static/media/03.jpg": "/campaign/static/media/03.9cc046be787cd2d3a68f.jpg",
     "static/media/umbra_mortis.jpg": "/campaign/static/media/umbra_mortis.e7f077b3e81d541a49e1.jpg",
     "static/media/07c-01.jpg": "/campaign/static/media/07c-01.1be4e9adcb9e0a57a1f9.jpg",
     "static/media/01c-01.jpg": "/campaign/static/media/01c-01.6374273dc91b6dc517b6.jpg",
+    "static/media/09.jpg": "/campaign/static/media/09.a12f93d42c1a7881642d.jpg",
     "static/media/brightspearCg.png": "/campaign/static/media/brightspearCg.0ed9d5b7b76cc17f77c6.png",
     "static/media/02c-01.jpg": "/campaign/static/media/02c-01.50380483360aea8d8e3c.jpg",
     "static/media/shadowsun.png": "/campaign/static/media/shadowsun.b5784501619dc1fbbddd.png",
@@ -219,6 +224,7 @@
     "static/media/01a-02.jpg": "/campaign/static/media/01a-02.e24a18515872b66f5d91.jpg",
     "static/media/06c-01.jpg": "/campaign/static/media/06c-01.f4f2fabfda9ab2eb399a.jpg",
     "static/media/battlefleet.png": "/campaign/static/media/battlefleet.49a625969a85dc86e2a6.png",
+    "static/media/02.jpg": "/campaign/static/media/02.0b1066f8e5bdc256d46b.jpg",
     "static/media/04-01.jpg": "/campaign/static/media/04-01.a1d9c2c155bb40478fe7.jpg",
     "static/media/05b-02.jpg": "/campaign/static/media/05b-02.d247b26a8739f6f24e4c.jpg",
     "static/media/08b-01.jpg": "/campaign/static/media/08b-01.34f05ea6461ee886f4cd.jpg",
@@ -288,12 +294,15 @@
     "static/media/banner.jpg": "/campaign/static/media/banner.57e7d68fcc4e352fe75d.jpg",
     "static/media/04b.jpg": "/campaign/static/media/04b.31ed0439dc9a98b806b1.jpg",
     "static/media/zaldrotha_voidrender.jpg": "/campaign/static/media/zaldrotha_voidrender.5a5425650b58e22c3ac5.jpg",
+    "static/media/05.jpg": "/campaign/static/media/05.2876887c76269869df11.jpg",
     "static/media/hegesthean_dusters.jpg": "/campaign/static/media/hegesthean_dusters.642508bc8e617df0a95a.jpg",
     "static/media/engelbert.jpg": "/campaign/static/media/engelbert.864bfa711f7da4203621.jpg",
     "static/media/04a.jpg": "/campaign/static/media/04a.9500b750cbf640c9a87f.jpg",
     "static/media/01a.jpg": "/campaign/static/media/01a.aea21e0731468322dc5c.jpg",
     "static/media/farstalker.png": "/campaign/static/media/farstalker.3dd4fe5b241b44a8f583.png",
+    "static/media/07.jpg": "/campaign/static/media/07.7a669520857d5abef822.jpg",
     "static/media/red.jpeg": "/campaign/static/media/red.ac7cecd5d25ae4af6ff9.jpeg",
+    "static/media/06.jpg": "/campaign/static/media/06.cc465aa6ec5c8ea47ef8.jpg",
     "static/media/gobrekka.jpg": "/campaign/static/media/gobrekka.1a5666ffc9daa3491472.jpg",
     "static/media/gsc_flag.jpg": "/campaign/static/media/gsc_flag.0db4fa45b6a075d4f42e.jpg",
     "static/media/06-02.jpg": "/campaign/static/media/06-02.979c579941eb9773b396.jpg",
@@ -454,6 +463,7 @@
     "static/media/battle-of-hive-aspidopolis.md": "/campaign/static/media/battle-of-hive-aspidopolis.478e436b0e76e6ed6c1c.md",
     "static/media/ashes-of-faith.md": "/campaign/static/media/ashes-of-faith.e9ef259cc3901c2feccf.md",
     "static/media/X-goremongers.svg": "/campaign/static/media/X-goremongers.0751f61b7632f1d27f8e.svg",
+    "static/media/hegesthes-loudgob-broken.md": "/campaign/static/media/hegesthes-loudgob-broken.5c4fb14a5148b5a82317.md",
     "static/media/the-splinter-fleet-arrives.md": "/campaign/static/media/the-splinter-fleet-arrives.86cba9fb4b2f9ef4aae2.md",
     "static/media/tyranids.svg": "/campaign/static/media/tyranids.3c4d69b91138a11feea1b2b9ffa84f80.svg",
     "static/media/smoking-ruin-showdown.md": "/campaign/static/media/smoking-ruin-showdown.ec6344efe868942be06f.md",
@@ -497,7 +507,6 @@
     "static/media/zaldrotha-voidrender.md": "/campaign/static/media/zaldrotha-voidrender.e14c4a8af19db21d8fa2.md",
     "static/media/void-dancer_troupe.svg": "/campaign/static/media/void-dancer_troupe.6853b3a72a07e4901573.svg",
     "static/media/inquisition.svg": "/campaign/static/media/inquisition.8a29cfdffd4a65f7084a6f6508535cec.svg",
-    "static/media/hegesthes-lt-bb.md": "/campaign/static/media/hegesthes-lt-bb.63c22ac0c9c88f44ce36.md",
     "static/media/world_eaters.svg": "/campaign/static/media/world_eaters.6e7c51812d1a2e4931b57076cc70a81a.svg",
     "static/media/kroot.svg": "/campaign/static/media/kroot.cd510f4494106a589e6a312412af7e84.svg",
     "static/media/marshal-ulrich.md": "/campaign/static/media/marshal-ulrich.2060b5fda1fd0ab1ad6b.md",
@@ -608,10 +617,10 @@
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.e5dc76b0.css.map": "/campaign/static/css/main.e5dc76b0.css.map",
-    "main.09a54035.js.map": "/campaign/static/js/main.09a54035.js.map"
+    "main.63ef76c6.js.map": "/campaign/static/js/main.63ef76c6.js.map"
   },
   "entrypoints": [
     "static/css/main.e5dc76b0.css",
-    "static/js/main.09a54035.js"
+    "static/js/main.63ef76c6.js"
   ]
 }
