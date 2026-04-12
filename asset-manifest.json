@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campaign/static/css/main.e5dc76b0.css",
-    "main.js": "/campaign/static/js/main.63ef76c6.js",
+    "main.js": "/campaign/static/js/main.b1f19b0f.js",
     "static/js/2631.4b78b972.chunk.js": "/campaign/static/js/2631.4b78b972.chunk.js",
     "static/js/4052.45debbf0.chunk.js": "/campaign/static/js/4052.45debbf0.chunk.js",
     "static/js/1964.a12c5406.chunk.js": "/campaign/static/js/1964.a12c5406.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/3314.e3a9b6b6.chunk.js": "/campaign/static/js/3314.e3a9b6b6.chunk.js",
     "static/js/7176.f4c4a21c.chunk.js": "/campaign/static/js/7176.f4c4a21c.chunk.js",
     "static/js/5610.50ed7c59.chunk.js": "/campaign/static/js/5610.50ed7c59.chunk.js",
-    "static/js/6842.043003fd.chunk.js": "/campaign/static/js/6842.043003fd.chunk.js",
+    "static/js/6842.ad1627b5.chunk.js": "/campaign/static/js/6842.ad1627b5.chunk.js",
     "static/js/1965.c0a0e2d0.chunk.js": "/campaign/static/js/1965.c0a0e2d0.chunk.js",
     "static/js/8831.6d4dc1bd.chunk.js": "/campaign/static/js/8831.6d4dc1bd.chunk.js",
     "static/js/4792.339c3cc5.chunk.js": "/campaign/static/js/4792.339c3cc5.chunk.js",
@@ -520,10 +520,10 @@
     "static/media/hegesthes-system.md": "/campaign/static/media/hegesthes-system.4865e7f4f1c46f3a0ea3.md",
     "static/media/mandrakes.svg": "/campaign/static/media/mandrakes.198053a6d4e99e69d519.svg",
     "static/media/belgatha-system.md": "/campaign/static/media/belgatha-system.61cbe2d2b3a5c2bccaa0.md",
+    "static/media/hegesthes.md": "/campaign/static/media/hegesthes.4b943ef92904ea1e734d.md",
     "static/media/hegesthes-bombing-run.md": "/campaign/static/media/hegesthes-bombing-run.9e5711573f55079d4487.md",
     "static/media/governor.svg": "/campaign/static/media/governor.7567e953647276589917.svg",
     "static/media/gaasyendietha.md": "/campaign/static/media/gaasyendietha.0e5f9b88690e5073fcc9.md",
-    "static/media/hegesthes.md": "/campaign/static/media/hegesthes.f6daf0436ee32cd4d4bf.md",
     "static/media/eryx.md": "/campaign/static/media/eryx.a071d79fb5563038ab7a.md",
     "static/media/beast-krumpaz.md": "/campaign/static/media/beast-krumpaz.c2dcf26053602474b09c.md",
     "static/media/reinhardt-von-rosenherz.md": "/campaign/static/media/reinhardt-von-rosenherz.aeb95eb7795a89dda37e.md",
@@ -617,10 +617,10 @@
     "static/media/terror-crusade.md": "/campaign/static/media/terror-crusade.3e91ab2ffdd959ce70ab.md",
     "static/media/krogskull-gobrekka.md": "/campaign/static/media/krogskull-gobrekka.237635f9dfb0280eeedb.md",
     "main.e5dc76b0.css.map": "/campaign/static/css/main.e5dc76b0.css.map",
-    "main.63ef76c6.js.map": "/campaign/static/js/main.63ef76c6.js.map"
+    "main.b1f19b0f.js.map": "/campaign/static/js/main.b1f19b0f.js.map"
   },
   "entrypoints": [
     "static/css/main.e5dc76b0.css",
-    "static/js/main.63ef76c6.js"
+    "static/js/main.b1f19b0f.js"
   ]
 }

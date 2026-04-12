@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampaign=self.webpackChunkcampaign||[]).push([[6842],{96842:(e,a,s)=>{e.exports=s.p+"static/media/hegesthes.4b943ef92904ea1e734d.md"}}]);

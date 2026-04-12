@@ -25,3 +25,5 @@ Hegesthes received the most Xenos invaders within the system, and has seen the m
 [184 024.M42 Battle of Outpost Kappa-12](#/events/hegesthes-outpost-kappa-12)
 
 [366 024.M42 Warboss Loudgob Gathers a Waaagh!](#/events/green-tide-rises)
+
+[268 026.M42 Fourth Platoon Holds the Line](#/events/hegesthes-loudgob-broken)
